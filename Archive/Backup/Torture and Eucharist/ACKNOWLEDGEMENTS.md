@@ -1,4 +1,4 @@
-# 致谢
+# 致谢 ACKNOWLEDGEMENTS 
 许多伟大的人参与了这本书的创作。我只能希望最终的成品能够配得上他们的贡献。
 
 首先，我要感谢智利Penalolén和Colegio Andacollo的朋友们，他们允许我分享他们的生活，并教导了我很多关于福音的知识：Manuel Pacheco和Margarita Barrientos、Hugo Alvarez和Elsa、Rosa Gutiérrez、Hugo Valdivia和Ana、Luis Flores、Felipe Vargas、Teresa Mondaca、Humberto Vilches等等。他们的开放和慷慨使我感受到基督的身体，在超越国界的范围内将我们团结在一起。同时，我也要感谢智利圣十字会神父和修士，以及与我一同服务的圣十字会助理们：Kevin Moser、Mary Jo Oeschlin、Sylvia Elxavide、Margy Pfiel、Anne Attea和Corey Timpson。我还要向已故的William Lewers神父表示感谢，他在我从智利回来后雇佣我，在圣母大学法学院的团结教区档案工作。
