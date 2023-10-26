@@ -10,4 +10,5 @@
   - **[目录](https://zhuanlan.zhihu.com/p/658581310)**
 - ### [《德勒兹和安那其主义》-目录](https://zhuanlan.zhihu.com/p/654888896)
 - ### [X](https://www.zhihu.com/column/c_1567916473842180096)
+- ### [《资本主义现实主义》](https://zhuanlan.zhihu.com/p/534941529)
   >***[哲学翻译VX公众号推荐](https://www.zhihu.com/question/26120563/answer/3115854914)***
