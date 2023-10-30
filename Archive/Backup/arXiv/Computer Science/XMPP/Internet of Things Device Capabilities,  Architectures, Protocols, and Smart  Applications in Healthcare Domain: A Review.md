@@ -42,8 +42,8 @@
 图 1. 文章终审筛选流程图。最终选择是根据重复记录、摘要审查和论文全文审查进行的。
 ```mermaid
 graph TB;
-    A[Literature Search (Google Scholar = 739, EMBASE = 157, NCBI = 193, PubMed = 55)] --> B[Number of duplicate records = 743];
-    A[Literature Search (Google Scholar = 739, EMBASE = 157, NCBI = 193, PubMed = 55)] --> C[Number of records after duplicate removal = 401];
+    A[Literature Search: Google Scholar = 739, EMBASE = 157, NCBI = 193, PubMed = 55] --> B[Number of duplicate records = 743];
+    A[Literature Search: Google Scholar = 739, EMBASE = 157, NCBI = 193, PubMed = 55] --> C[Number of records after duplicate removal = 401];
     C[Number of records after duplicate removal = 401] --> D[Number of records removed after abstract review = 165];
     C[Number of records after duplicate removal = 401] --> E[Full text articles considered for review = 236];
     E[Full text articles considered for review = 236] --> F[Number of records removed after during full paper review = 187];
@@ -307,7 +307,7 @@ Zigbee 是一种通信标准，可确保可靠、低功耗和经济高效的数�
 
 图 6. 在生物物理参数监测、慢性病检测、药物管理、远程医疗以及家庭和老年人护理等领域，物联网概念重点关注的主要医疗保健应用。
 ```mermaid
-graph TB；
+graph TB;
     A[Healthcare Applications] --> B[Biophysical Parameter Monitoring];
     A[Healthcare Applications] --> C[Chronic Disease Detection];
     A[Healthcare Applications] --> D[Medication Management];
@@ -523,7 +523,7 @@ Abdelgawad 等人[^172]提出了一种用于监测环境辅助生活环境中老
 |电源和成本效率|▪ 物联网网络中连接的智能设备越来越多，对自然造成了有害影响。<br>▪ 设备的能效不尽如人意。<br>▪ 通过多个设备设置和维护全天候监控不符合成本效益。|▪ 太阳能供电的硬件解决方案将提高物联网网络中使用的大量设备的可持续性和环保性。<br>▪ 创建多用途通用设备将减少监测或监视病人或环境所需的单独设备的数量。设备数量的减少也会降低总体成本。<br>▪ 针对特定任务的专用硬件可降低总体功耗。<br>▪ 优化的软件也会减少必要的处理量，从而优化功耗。|
 |可靠性和可用性|▪ 在工业和医疗保健用例中用于监控目的的设备需要始终可用，无论网络或其他故障如何，以避免危险或危及生命的情况。<br>▪ 用于监控和监视目的的智能设备需要始终可靠。<br>▪ 物联网网络需要最大限度地提高可用性和可靠性。|▪ 在开发专门的物联网网络时应遵循容错开发原则。<br>▪ 网络中的错误检测和恢复技术，如分布式检查点和协调检查点，可提高网络可靠性。<br>▪ 网络流量分析和流量预测可用于预测网络负载，这将有助于分配适当的资源以提高网络可用性。<br>▪ 设备中必须提供简化版本的应用程序，以便在网络故障或停机期间也能提供基本服务。<br>▪ 可以利用 TinyML 部署技术来确保在网络故障期间提供最低限度的功能。<br>▪ 设备中的传感模块必须符合标准误差容限，并且必须经过定期测试，以确保最高可靠性。<br>▪ 使用最先进的电池技术可提高设备的可靠性和可用性|
 |身份和流动性|▪ IPv4 网络协议可能不足以处理物联网网络中连接的数百万台设备。<br>▪ 网络和路由协议无法高效处理物联网网络中的大量高移动性设备。|▪ IPv6 可作为物联网网络的标准互联网协议。<br>▪ 可利用人工智能方法（如强化学习技术）来开发和测试新的路由协议，以高效处理高度移动的节点。<br>▪ Vehicular Ad-hoc Networks 已为网络中的移动和固定节点提供了联网解决方案。VANET 中的相关组件可用于物联网网络。|
-## VIII. CONCLUSION
+## VIII. 总结
 互联网极大地改变了人们的生活方式，使人们能够在从专业到社交的各种场合进行虚拟互动。物联网可通过实现联网设备之间的通信为这一系统做出有意义的贡献，从而实现 "任何媒体、任何时间、任何事物、任何地点 "的连接梦想。本文重点介绍描述物联网概念框架的前沿物联网设备功能、架构和协议。本文全面展示了硬件和软件工具的物联网设备功能。人们一直在讨论可能的物联网架构，如传统的三层架构、基于 SoA 的架构和基于中间件的架构。此外，本文还简要介绍了物联网通信协议及其特点。我们重点介绍了近几十年来为智能医疗开发的各种物联网应用，以确保为医疗从业人员提供一些便利，如监测和识别各种健康问题、测量各种健康因素以及提供远程诊断和治疗。最后，本文还探讨了当前基于物联网的医疗保健应用发展所面临的挑战和差距，以及未来几年的改进和研究重点。希望本文能为愿意深入了解物联网技术的学者和科学家提供一个稳定的平台，让他们充分掌握物联网概念的总体架构和多元素、多流程的作用。
 ### 附录
 表A 缩略语表
