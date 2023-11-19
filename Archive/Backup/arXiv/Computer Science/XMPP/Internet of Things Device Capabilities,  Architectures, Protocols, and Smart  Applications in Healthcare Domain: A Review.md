@@ -439,11 +439,11 @@ Abdelgawad 等人[^172]提出了一种用于监测环境辅助生活环境中老
 [^178]:M. Masud et al., "A Lightweight and Robust Secure Key Establishment Protocol for Internet of Medical Things in COVID-19 Patients Care," IEEE Internet Things J., vol. 8, no. 21, pp. 15694-15703, Nov.1, 2021.
 [^179]:M. Masud, G. S. Gaba, K. Choudhary, M. S. Hossain, M. F. Alhamid and G. Muhammad, "Lightweight and Anonymity-Preserving User Authentication Scheme for IoT-Based Healthcare," IEEE Internet Things J., vol. 9, no. 4, pp. 2649-2656, Feb.15, 2022.
 
-未来，RSA 加密算法、数字签名标准 (DSS) 和 ElGamal 等加密安全算法可用于物联网网络的所有终端，以提供安全性。安全散列算法可用于确保数据完整性。区块链技术可用于减少中间人攻击和网络窃听[180]、[181].防伪令牌（NFT）技术可使患者免受假冒产品或服务的侵害。NFT 还能帮助患者分散其敏感数据，并在保持身份匿名的同时共享医疗保健数据。指纹、语音识别、人脸识别和虹膜识别等生物识别认证技术，以及双因素认证、门禁卡和种子短语等基于软件的认证技术，也应在未来成为物联网网络连接系统的标准化技术。未来应探索基于人工智能的网络异常检测方法，以提高安全性。由于 TinyML [182]的进步，有可能运行异常检测、未来有可能在资源有限的设备[183] 中运行异常检测模型。这将大大提高用户和传输数据的安全性和隐私性。
-[180]:B. K. Mohanta, D. Jena, S. Ramasubbareddy, M. Daneshmand, and A.H. Gandomi, “Addressing Security and Privacy Issues of IoT Using Blockchain Technology,” IEEE Internet Things J., vol. 8, no. 2, 2021.
-[181]:Y. Zhao, X. Yang, Y. Yu, B. Qin, X. Du and M. Guizani, "BlockchainBased Auditable Privacy-Preserving Data Classification for Internet of Things," IEEE Internet Things J., vol. 9, no. 4, pp. 2468-2484, 15 Feb.15, 2022.
-[182]:R. Sanchez-Iborra and A. F. Skarmeta, “TinyML-Enabled Frugal Smart Objects: Challenges and Opportunities,” IEEE Circuits Syst. Mag., vol. 20, no. 3, 2020.
-[183]:D. L. Dutta and S. Bharali, “TinyML Meets IoT: A Comprehensive Survey,” Internet of Things, vol. 16, 2021.
+未来，RSA 加密算法、数字签名标准 (DSS) 和 ElGamal 等加密安全算法可用于物联网网络的所有终端，以提供安全性。安全散列算法可用于确保数据完整性。区块链技术可用于减少中间人攻击和网络窃听[^180]、[^181].防伪令牌（NFT）技术可使患者免受假冒产品或服务的侵害。NFT 还能帮助患者分散其敏感数据，并在保持身份匿名的同时共享医疗保健数据。指纹、语音识别、人脸识别和虹膜识别等生物识别认证技术，以及双因素认证、门禁卡和种子短语等基于软件的认证技术，也应在未来成为物联网网络连接系统的标准化技术。未来应探索基于人工智能的网络异常检测方法，以提高安全性。由于 TinyML [^182]的进步，有可能运行异常检测、未来有可能在资源有限的设备[^183] 中运行异常检测模型。这将大大提高用户和传输数据的安全性和隐私性。
+[^180]:B. K. Mohanta, D. Jena, S. Ramasubbareddy, M. Daneshmand, and A.H. Gandomi, “Addressing Security and Privacy Issues of IoT Using Blockchain Technology,” IEEE Internet Things J., vol. 8, no. 2, 2021.
+[^181]:Y. Zhao, X. Yang, Y. Yu, B. Qin, X. Du and M. Guizani, "BlockchainBased Auditable Privacy-Preserving Data Classification for Internet of Things," IEEE Internet Things J., vol. 9, no. 4, pp. 2468-2484, 15 Feb.15, 2022.
+[^182]:R. Sanchez-Iborra and A. F. Skarmeta, “TinyML-Enabled Frugal Smart Objects: Challenges and Opportunities,” IEEE Circuits Syst. Mag., vol. 20, no. 3, 2020.
+[^183]:D. L. Dutta and S. Bharali, “TinyML Meets IoT: A Comprehensive Survey,” Internet of Things, vol. 16, 2021.
 ### *B.物联网标准化*
 在物联网环境中，各种类型的设备通过复杂的网络相互连接。每种设备都可能使用不同的架构或协议来生成或传输数据。从软件和硬件角度来看，这些设备也各不相同。对这些设备的管理，包括设备在软件或硬件层面的协作、正确寻址、编组、去编组、协议或架构层面的优化以及识别，是一项巨大的研究挑战。未来应采取措施起草物联网架构和网络协议并使其标准化[^184]。
 [^184]:V. Gazis, “A Survey of Standards for Machine-to-Machine and the Internet of Things,” IEEE Communications Surveys and Tutorials, vol. 19, no. 1. 2017.
