@@ -6,9 +6,5 @@
   - **[目录](https://zhuanlan.zhihu.com/p/633611899)**
 - ### [阅读瓦尔特·本雅明《历史哲学论纲》](https://www.zhihu.com/column/c_1661492604914003968)
   - **[目录](https://zhuanlan.zhihu.com/p/641905537)**
-- ### [《酷刑与圣餐：神学、政治和基督的圣体》](https://www.zhihu.com/column/c_1690101655192936448)
-  - **[目录](https://zhuanlan.zhihu.com/p/658581310)**
 - ### [《德勒兹和安那其主义》-目录](https://zhuanlan.zhihu.com/p/654888896)
 - ### [X](https://www.zhihu.com/column/c_1567916473842180096)
-- ### [《资本主义现实主义》](https://zhuanlan.zhihu.com/p/534941529)
-  >***[哲学翻译VX公众号推荐](https://www.zhihu.com/question/26120563/answer/3115854914)***
