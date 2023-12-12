@@ -6,7 +6,7 @@
 
 正是这些观点在二十世纪九十年代的重新兴起，包括兰德论文的重新出版，[^2]才让我重新回到这些问题上，并用 "加速主义 "这个词来进行更精确的批判性描述。[^3]原来这个词出现在我读过的罗杰-泽拉兹尼（Roger Zelazny）的科幻小说《光之王（*Lord of Light*）》（1967 年）中。无意识总是以神秘的方式发挥作用。在我最初的批判性分析之后，出现了新一轮的当代加速主义浪潮，正是这一事实，尤其是发生在资本主义危机时期的这一事实，促使我写下了这本书。
 [^2]:Nick Land, *Fanged Noumena: Collected Writings 1987-2007*, intro. Ray Brassier and Robin Mackay (Falmouth: Urbanomic, 2013, e-book).
-[^3]:Benjamin Noys, The Persistence of the Negative (Edinburgh: Edinburgh University Press, 2010), pp.4–9.
+[^3]:Benjamin Noys, *The Persistence of the Negative* (Edinburgh: Edinburgh University Press, 2010), pp.4–9.
 
 我的目的不是对加速主义进行详尽的阐述，而是选择加速主义作为一种政治和文化策略出现的某些时刻。在导言中，我将从一小群法国理论家在 20 世纪 70 年代早期到中期将加速主义理论化说起。我将论证，这一短暂的理论过剩是一种自相矛盾的尝试，它试图阐明一条超越资本主义的道路，而资本主义似乎已经吸收并恢复了所有反对派。它将提供一把钥匙，开启我随后追踪的不同历史加速时刻。从意大利未来主义开始，我追溯到俄国革命后的共产主义加速主义、与机器融合的幻想、90 年代和 00 年代的赛博朋克未来主义、2008 年后危机时刻的末日加速主义以及终结加速主义的消极形式。在最后，[第一章](https://github.com/1Haschwalth/Translation/blob/MAIN/Archive/Backup/Malign%20Velocities/1.%20War%20Machines.md)将回到上世纪二三十年代，通过瓦尔特-本雅明和贝托尔特-布莱希特的相遇，重述围绕加速主义的争论。这一场景浓缩了加速问题和新事物的产生。在结论部分，我想提出一条走出僵局的道路，而不是简单地以放慢速度的愿望来对抗加速度。
 
