@@ -1,5 +1,5 @@
 # 大卫·格雷伯|后工人主义的悲哀
->**[David Graeber](https://theanarchistlibrary.org/category/author/david-graeber),[The Sadness of Post-Workerism](https://theanarchistlibrary.org/library/david-graeber-the-sadness-of-post-workerism).2008-1-19**
+>**[David Graeber](https://theanarchistlibrary.org/category/author/david-graeber),[*The Sadness of Post-Workerism*](https://theanarchistlibrary.org/library/david-graeber-the-sadness-of-post-workerism).2008-1-19**
 ## 前言
 1月19日，意大利后工人主义理论的几位重量级人物——托尼-奈格里（Toni Negri）、比弗-贝拉尔迪（Bifo Berardi）、毛里奇奥-拉扎拉托（Maurizio Lazzarato）和朱迪斯-雷弗（Judith Revel）——出现在泰特现代美术馆（Tate Modern），谈论艺术。这是关于它一篇评论。
 
