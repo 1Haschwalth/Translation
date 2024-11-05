@@ -1,0 +1,8 @@
+## 視頻版
+- ### [雷•布拉西耶|太阳灾难：利奥塔、弗洛伊德和死亡驱力](https://www.bilibili.com/video/BV1Ng4y1D73W)
+- ### [尤金•萨克|星空思辨尸体](https://www.bilibili.com/video/BV19Q4y1u7ua)
+- ### [本杰明•诺伊斯|恶性速度：战争机器](https://www.bilibili.com/video/BV17i4y1v74o)
+- ### [迈赫迪·贝尔哈吉·卡西姆|居伊德波之墓](https://www.bilibili.com/video/BV1P94y1G7KZ)
+- ### [迈克尔•洛维|炽热之焰：作为浪漫主义革命运动的超现实主义](https://www.bilibili.com/video/BV12u4y1h7yo)
+- ### [马克费舍尔|斯宾诺莎，K-PUNK，神经朋克](https://www.bilibili.com/video/BV1am4y1G7ef)
+- ### [德勒兹&瓜塔里|1968年五月风暴从未发生](https://www.bilibili.com/video/BV1Zj411B75z)
