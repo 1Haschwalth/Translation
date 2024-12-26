@@ -1,4 +1,4 @@
-## 視頻版
+## [視頻版](https://space.bilibili.com/323328689/channel/collectiondetail?sid=1516287)
 - ### [雷•布拉西耶|太阳灾难：利奥塔、弗洛伊德和死亡驱力](https://www.bilibili.com/video/BV1Ng4y1D73W)
 - ### [尤金•萨克|星空思辨尸体](https://www.bilibili.com/video/BV19Q4y1u7ua)
 - ### [本杰明•诺伊斯|恶性速度：战争机器](https://www.bilibili.com/video/BV17i4y1v74o)
