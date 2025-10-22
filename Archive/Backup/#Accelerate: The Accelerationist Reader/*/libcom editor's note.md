@@ -17,4 +17,4 @@ libcom编辑注：部分加速主义者（尤其是尼克·兰德）与极右翼
 ## 附件
 [**Accelerate - Robin Mackay.pdf**](https://files.libcom.org/files/Accelerate%20-%20Robin%20Mackay.pdf)(5.06 MB)
 ## *
-中译：2024/1/30
+中译：2024/1/30（以下补档）
