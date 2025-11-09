@@ -1,5 +1,5 @@
 # 虚无主义与权力意志
->[Alfredo M. Bonanno](https://www.edizionianarchismo.net/category/author/bonanno-alfredo-m), [Nichilismo e volontà di potenza](https://www.edizionianarchismo.net/library/alfredo-m-bonanno-nichilismo-e-volonta-di-potenza)
+>[Alfredo M. Bonanno](https://www.edizionianarchismo.net/category/author/bonanno-alfredo-m), [*Nichilismo e volontà di potenza*](https://www.edizionianarchismo.net/library/alfredo-m-bonanno-nichilismo-e-volonta-di-potenza)
 >
 >第一版：2001年11月；第二版：2013年11月
 >
