@@ -1,15 +1,5 @@
-# 生命的形式 Form of Life
->https://theanarchistlibrary.org/library/giorgio-agamben-form-of-life
->
->标题：Form-of-Life
->
->作者：Giorgio Agamben
->
->主题：not-anarchist, philosophy, Tiqqun
->
->日期：2000
->
->来源：Means without End
+# 生命的形式
+>Giorgio Agamben, [*Form-of-Life*](https://theanarchistlibrary.org/library/giorgio-agamben-form-of-life). 2000
 
 古希腊人没有用单一词汇来表达我们所说的"*生命（life）*"概念。他们使用了两个在语义和形态上截然不同的术语：*zoē*，表示所有生命体（动物、人类或神灵）共有的单纯生存事实；*bios*，则指代个体或群体特有的生存形态或方式。在现代语言中，这种对立已逐渐从词汇中消失（即使在保留该区别的领域如*生物学（biology）和动物学（zoology*）中，二者也不再表明实质差异）；如今仅用单一术语——其晦涩程度随所指对象的神圣化程度而递增——来指代那种赤裸裸的预设共性要素，这种要素始终存在于各种生命形态之中且可被孤立出来。
 
