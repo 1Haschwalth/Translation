@@ -7,7 +7,7 @@
 
 对*无-治（an-archy*）的承诺本身就是对发现那种超越*认识论（epistemology*）限制性经济（restrictive economy）中*观念（理想）（idea(l)*）之短视的、过度的（excess-ive）和定义不清的物质部分的承诺（伟大的麦克斯·施蒂纳称之为“幽灵”（Spook）（参见 Stirner, 1970: 50–54）），它可以恰当地被称为普遍经济（general economy）；反过来，普遍经济，作为基础（base）的经济，由我想称之为*普遍国家（general State*）的东西所支撑。我在经济与国家之间使用的分析性区分在以下方面很重要：普遍经济指的是超越其特定用途的过度能量（这反过来意味着当前限制性国家（restrictive State）和限制性经济概念的根本无常性），而普遍国家指的是普遍经济在逻辑时间（logical time）之外建立其逻辑和强制力所依据的*无-物（no-thing）*（如果经济是*手段*的镜像，那么国家就是*目的*的镜像）；另一方面，限制性（马克思主义）国家的主体试图抓住巴塔耶所说的“某种获取的对象，*某物（something）*，而非纯粹耗费[存在于普遍国家中]的*无-物（no-thing）*。问题在于达到这样一个时刻：意识将不再是关于某物的意识；换句话说，变得意识到一个瞬间的决定性意义，在这个瞬间，增加（获取*某物*）将化解为耗费；而这正是*自我意识（self-consciousness）*，即一种从此*以无为其对象*的意识”（1980: 190）；金钱在丛林中毫无价值并不奇怪，但它需要仪式的力量以及将一个无常的某物置入连续的间隔中：因此，效用经济（economy of utility）在没有限制性国家强加的情况下，仍然不过是游戏经济（economy of *play*），是国家形式（State-form）的单一瞬间。
 
-当我坦白以下内容时，我没有任何幻想：宣布这个小项目是其背叛的标志[^4]（正如我们将看到的，这主要是一部*无-治主义（an-archism*）而非*无-治（an-archy*）的作品，一部体现了符号的虚幻标记及其对效用领域（domain of utility）的伴随姿态的作品；然而，相当悖论地，它这样做是为了服务于异质性原则（principle of *heterogeneity*），而该原则又被用于服务于*无-治*））。我希望从这项研究中获得一种独特的巴塔耶式无政府主义变体的碎片，我想论证，这种变体被证明比无政府主义本身更无政府主义（更符合无政府主义的主体，即无-治（an-archy））。然而，在继续之前，如果我打算继续推进无政府主义理论的论证，我必须提供一些关于巴塔耶作品中普遍国家逻辑的东西——这个观念从未被贴上“普遍国家”的标签，但已有足够的暗示，可以为我们提供一条通向巴塔耶式无政府主义的路径。[^5]
+当我坦白以下内容时，我没有任何幻想：宣布这个小项目是其背叛的标志[^4]（正如我们将看到的，这主要是一部*无-治主义（an-archism*）而非*无-治（an-archy*）的作品，一部体现了符号的虚幻标记及其对效用领域（domain of utility）的伴随姿态的作品；然而，相当悖论地，它这样做是为了服务于异质性原则（principle of *heterogeneity*），而该原则又被用于服务于*无-治*））。我希望从这项研究中获得一种独特的巴塔耶式无政府主义变体的碎片，我想论证，这种变体被证明比无政府主义本身更无政府主义（更符合无政府主义的主体，即无-治）。然而，在继续之前，如果我打算继续推进无政府主义理论的论证，我必须提供一些关于巴塔耶作品中普遍国家逻辑的东西——这个观念从未被贴上“普遍国家”的标签，但已有足够的暗示，可以为我们提供一条通向巴塔耶式无政府主义的路径。[^5]
 [^1]:我在此指涉，即便是间接地，拉康（Lacan）的四种话语（关于拉康四种话语在无政府主义政治哲学中应用的出色研究，参见 Newman, 2004a），其中巴塔耶的“话语”最恰当地契合于“分析者话语”（analyst's discourse），而传统无政府主义话语可以说处于“癔症者话语”（hysteric's discourse）的最边缘。无论如何，癔症者话语倾向于体现尼采式怨恨（Nietzschean ressentiment）的态度，因为他/她“将主人——体现在伴侣、老师或任何人身上——推到能够发现其知识欠缺的地步[...] 在向主人言说时，癔症者要求他/她生产知识，然后继续反驳他/她的理论”（Fink, 1996: 134）。分析者则更为激进地“将主体作为分裂的、自相矛盾的[...] 因此，分析者通过指出分析者并非其自身话语的主人，将分析者确立为在有意识的言说主体与同时通过同一张嘴巴言说的某个其他（主体）之间分裂”（ibid., 136）。巴塔耶作品的真理在于分析者话语中，对抗着（但绝望地通过[正如无数拉康主义者至今被迫承认的那样]）癔症者话语。然而，通过推进反对本体论主张的认识论主张（尽管我同意其结果，这是安德鲁·科赫（Andrew Koch）在其文章“后结构主义与无政府主义的认识论基础”（1993）中的总体方法），人们通过将其置于观念（idea）的服务之下而矛盾了基础物质（base matter）的潜在力量，因此，以最令人难以置信的方式歪曲了源自巴塔耶作品的整个思想运动。
 [^2]:我心中所想的是将主权（sovereignty）的结果与哲学冥想（philosophical meditation）的手段联系起来的必要性，其中冥想指的是“旨在对实践它们的主体产生修改和转变的实践[...] 哲学教师的言说可以以这样的方式呈现，使得门徒，作为听众、读者或对话者，可以在其中取得精神进步并转变自身”（Hadot, 2002: 6）。巴塔耶不会太相信“物世界”（world of things）能够提供清醒反思的能力（这种方法“一开始就引起不信任”（Bataille, 1988:11）；尽管，至少应该注意到，有时他得出相反的结论：“当然，在苏联势力范围内，自我意识（self-consciousness）也被排除在外”（ibid., 188））；尽管如此，他仍然采用了教师和教育书籍作家的策略，人们只能推断他这样做是因为他相信他的书/物能够产生主权主体。解决这个解释问题的一种可能性可以在凯西·戴维斯（Kathy Davis）的著作中找到，她认为所有成功的社会学理论——从马克思到涂尔干和韦伯——之所以重要，不在于它们对确定性的诉求或其连贯性，而在于它们的模糊性和开放性，这反过来又赋予了读者解释的灵活性（参见 Davis, 2008）。基于此，我认为成功的理论是那些提供与居伊·德波（Guy Debord）电影（参见 Knabb, 2003）或无政府主义音乐家约翰·凯奇（John Cage）音乐（参见 Tudor, 2006 [2009]）中相同的阈限体验的理论——形式的绝对否定，但是从内部而非外部。因此，成功的形式必须充当反射面，允许无数激进主体性的增殖，而不是产生单一视角的冰冷肯定，
 [^3]:例如，多尔夫曼（Dorfman）认为，“[巴塔耶]与尼采和海德格尔一起，常被置于晚期现代思想的一个反谱系中，愿意探索实证主义、理性主义、后启蒙哲学大多未曾探索的人类经验要素（例如：权力、时间、僭越和异常）”（2002: 38）。
@@ -46,7 +46,7 @@
 
 这一逻辑在巴塔耶的《法西斯主义的心理结构》（"The psychological structure of fascism"）中表现得最为显著，他在其中描述并对比了*同质性（homogeneity*）与*异质性（heterogeneity*）的逻辑；他解释说，同质性“意味着[……]元素的可通约性以及对这种可通约性的意识[注意他描述了这对二元组合的*客观*和*主观*成分]：人际关系通过还原为基于对可界定的人与情境可能同一性的意识的固定规则来维持；原则上，所有暴力都被排除在这种存在过程之外” (1985b: 137–8)；巴塔耶进而将同质性主要定义为生产和效用的领域[^15]，即*经济*领域；然而，同质性逻辑所产生的疏漏，建立在其对立创伤（obverse trauma）的心理和政治规制之上：异质性成分（heterogeneous component），它总是以排斥和强迫（repulsion and compulsion）的形式返回，污染同质性元素 (Goldhammer, 2005: 169)。同质性部分若不允许一种新的心理和政治逻辑——这种逻辑建立在无政府主义的国家概念之上——就无法维持自身：“[e]即使在困难的情况下，国家也能够中和那些只会屈服于其约束的*异质性*力量” (Bataille, 1985b: 139)——政治国家形式（political State-form）应被视为同质性形式的一种*特殊*体现，但并非其必然采取的形式：效用*限制*经济仅吸收来自过度流（excessive flow）的部分能量。迄今为止作为生活主导原则的古典经济原则——例如，可看霍布斯式的稀缺概念及其对传统和当代经济形式的影响——为需要的产生提供了*逻辑的*，因而也是话语的框架，这种需要以政治国家形式显现出来。
 
-如果我能够逃脱对接下来这段文字的*马克思主义*解读，我或许能够想象那种*异质性*力量，它较少产生于同质性模型，也较少产生于国家形式，而是悖论性地产生于这些模型核心处的匮乏（lack）的内在亲密性（intimate within）：[^16]
+如果我能够逃脱对接下来这段文字的*马克思主义*解读，我或许能够想象那种*异质性*力量，它较少产生于同质性模型，也较少产生于国家形式，而是悖论性地产生于这些模型核心处的匮乏的内在亲密性（intimate within）：[^16]
 > 社会*同质性*根本上依赖于生产系统的同质性。[……] 经济生活发展所产生的每一个矛盾，都因此导致同质性社会存在的一种趋向性解体（tendential dissociation）。这种解体的趋向以最复杂的方式施加作用，涉及所有层面和各个方向。但只有当相当一部分*同质化*个体大众不再对保存现有同质性形式感兴趣时，它才会达到尖锐和危险的形式[……] 社会的这一部分随后自发地依附于先前构成的*异质性*力量，并变得与它们无法区分。[……] 此外，社会*异质性*并非以无定形和迷失方向的状态存在：相反，它不断趋向于一种分裂的结构（split-off structure）；并且*当社会元素转向异质性一方时，它们的行动仍然受到该方实际结构的制约*(ibid., 140)。
 
 以这种方式（即，类似于拉康/Lacan的创伤性实在界/traumatic Real以及主客观匮乏/Lack的概念）来解读巴塔耶*心理学*的*异质性*概念，预设了对以下段落的重新解读：“[异质性]构成了此类研究的第一个阶段，在这个意义上，被定义为*非均质（non-homogeneous*）的*异质性*的首要规定，预设了对通过排斥来界定它的*均质性*的认识” (ibid.)。至少，这可以解释为对巴塔耶敏锐评论的正确回应，即异质性维度关注的是“无法被同化的元素” (ibid.)。确实，人们可能会像我一样，试图用常被引用的“诸众”（"multitude"），而是用虚无主义反抗（nihilist conception of revolt）的概念来描述社会的*异质性*元素；正如虚无主义-共产主义作家弗雷尔·杜邦（Frere Dupont）所言：
@@ -66,7 +66,7 @@
 常见的无政府主义[^18]概念“自愿联合”（voluntary association）在哲学上对应于巴塔耶的“礼物”（Gift）概念（他借鉴自马塞尔·莫斯/Marcel Mauss）。无需完全重复后无政府主义者刘易斯·科尔（Lewis Call）已经建立的链接（参见，2002: 94–99, 特别是第96–97页），我想提出，正如我已经暗示的那样，“巴塔耶的理论包含激进的反国家主义（antistatist）意涵”（同上，96），并且礼物的概念反对任何可能以其名义进行的战略谋划：“[……]这种不可避免的损失绝不能被认为是有用的。它仅仅是一种可接受的损失，比另一种被视为不可接受的损失更可取：一个关于*可接受性（acceptability*）的问题，而非效用（utility）”（Bataille, 1988: 31）。仿佛巴塔耶本应超越悔恨地强调这一点，以最终申明*策略*或*战术*不如自我反思、意识和主权（sovereignty）重要；而这正是我们在其全部作品中反复发现并强调的：“普遍经济（general economy）的阐述当然意味着对公共事务的干预；但首先且更深刻的是，它的目标是意识（consciousness），它从一开始就期待的是人类最终在其相互关联的历史形式的清晰视野中所能实现的*自我意识（self-consciousness*）”（同上，41）。很明显，牺牲的礼物意味着一个人自愿屈从于不可避免之事——一个人只有通过受虐般地（masochistically）牺牲自身的某些元素才能与另一个人形成*共同体（voluntarily*）；[^19]确实，伟大的利己主义无政府主义者（egoist anarchist）麦克斯·施蒂纳（Max Stirner）的遗产与伟大的形而上学家乔治·巴塔耶的遗产之间，并无深刻隔阂：
 > 但不仅不是为了你的缘故，甚至也不是为了真理的缘故，我才说出我的想法。[……] 我歌唱是因为——我是一个歌手。但我利用你来做这件事，因为我——需要耳朵。凡世界妨碍我的地方——它无处不在妨碍我——我就消耗它来平息我的利己主义（egoism）的饥饿。因为你无非是——我的食物，正如我也被你消耗和利用。我们彼此之间只有一种关系，即可利用性（usableness）、效用（utility）、使用（use）的关系（Stirner, 1907: 394）。
 
-根据巴塔耶，也根据施蒂纳，将人类带入共契（communion）的是他们彼此之间的使用价值（use-value）；在每一个转折点，一个人都会遭遇幽灵般的权威幻象（*ghostly* authoritative apparitions）：“无论远近看去，一个幽灵般的世界处处包围着你；你总是有‘幻象’或异象。出现在你面前的一切都只是内在精神（indwelling spirit）的幻影，是幽灵般的‘显现’”（1907: 44），“‘精神存在！’看看这个世界，然后问问你自己，是否每一样东西里都有一个精神在注视着你。[……] 是的，整个世界都被附身了！”（同上，43）。如果整个世界确实被附身了，那么同样真实的是，超越这个世界的空间源自无-物（no-thing）的力量，即普遍经济（general economy）的基础原则，与认为它超越利己主义者目的、像众多神祇一样统治并要求奴役的观念相反，它源自这种利己主义本质本身的过度部分，作为主体性（subjectivity）的内在亲密性（intimate-within）：“你是一个比你更高的存在，并且超越了你。但那个比你更高的存在就是你，也就是说，你不仅是造物，同样也是你的创造者——正是这一点，作为一个不自愿的利己主义者，你没有认识到；因此那个‘更高本质’对你来说——是一个异己本质（alien essence）。每一个更高本质，例如真理、人类等等，都是凌驾于我们之上的本质”（同上，47）；这个本质将其自身强加于我们作为唯一者（unique ones），作为碎片化和辐射的利己主义者，并非因为我们作为连贯的自我（本质自我）完全存在于自身之内，而是因为我们消耗了世界并随之带走了*无-物（no-thing）*。
+根据巴塔耶，也根据施蒂纳，将人类带入共契（communion）的是他们彼此之间的使用价值（use-value）；在每一个转折点，一个人都会遭遇幽灵般的权威幻象（*ghostly* authoritative apparitions）：“无论远近看去，一个幽灵般的世界处处包围着你；你总是有‘幻象’或异象。出现在你面前的一切都只是内在精神（indwelling spirit）的幻影，是幽灵般的‘显现’”（1907: 44），“‘精神存在！’看看这个世界，然后问问你自己，是否每一样东西里都有一个精神在注视着你。[……] 是的，整个世界都被附身了！”（同上，43）。如果整个世界确实被附身了，那么同样真实的是，超越这个世界的空间源自无-物的力量，即普遍经济的基础原则，与认为它超越利己主义者目的、像众多神祇一样统治并要求奴役的观念相反，它源自这种利己主义本质本身的过度部分，作为主体性（subjectivity）的内在亲密性（intimate-within）：“你是一个比你更高的存在，并且超越了你。但那个比你更高的存在就是你，也就是说，你不仅是造物，同样也是你的创造者——正是这一点，作为一个不自愿的利己主义者，你没有认识到；因此那个‘更高本质’对你来说——是一个异己本质（alien essence）。每一个更高本质，例如真理、人类等等，都是凌驾于我们之上的本质”（同上，47）；这个本质将其自身强加于我们作为唯一者（unique ones），作为碎片化和辐射的利己主义者，并非因为我们作为连贯的自我（本质自我）完全存在于自身之内，而是因为我们消耗了世界并随之带走了*无-物*。
 
 关于这一点，亚历杭德罗·德·阿科斯塔（Alejandro de Acosta）正在他对施蒂纳（无政府主义者）作品的研究中取得重大进展，实际上论证了施蒂纳不愿接受共契体（comm-unity）概念是因为其潜在的功利主义评价：
 > 通常，当我们试图思考或实践互助（mutual aid）时，我们将一整套异己道德（alien morality）拖入我们的活动中，以施蒂纳所称的警察关怀（police care）的方式思考和生活，简而言之，使共同体成为另一个事业（Cause）。作为事业，共同体已经是一个微型的国家（micro-State）[……] 人们感到对共同体有一种可怕的义务，因此当他们失败时（他们当然不可避免地会失败）感到内疚，这太常见了。[……] 国家，或如此多共同体所显现的诸国家（States）[……]，是聚集在一起的人们，他们彼此提供良好的警察关怀。[……] 我被要求做的是为归属的意义而牺牲自己，以换取词语和器官的礼物。[……] 既然共存（coexistence）在某种意义上是不可避免的，那么共同体之外是什么？我在反思我经常做的一件事时学到了这一课：公开演讲。关于这项活动，施蒂纳写道，这是要求他人消耗我。享受我吧，唯一者（the Unique）邀请你，消耗我。（对此我忍不住想加上受虐者的情色低语：“使用我。”）（2009: 34）
@@ -75,4 +75,50 @@
 > *超越我之所是，我遇见一个让我发笑的存在，因为他没有头（headless）；这让我充满恐惧，因为他由无辜与罪行构成；他左手持一件钢铁武器，右手持像圣心（Sacred Heart）般的火焰。他在同一次爆发中重聚了出生与死亡。他不是一个人。他也不是神。他不是我，但比我更甚；他的胃是迷宫，他在其中迷失了自己，也使我与他一同迷失，而我在其中发现我自己即是他，换句话说，作为一个怪物。*
 [^18]:诚然，“无政府主义”是一个宽泛且可争议的、常常包含冲突利益和态度的集合体，但这并不偏离我的主要观点。
 [^19]:对巴塔耶而言，“两个存在[……]只有在失去一部分自身时才能沟通。沟通用伤口将他们绑在一起，在那里他们的统一性和完整性在狂热中消散”（1985: 250）。
-## 5: To Have Never Begun, To Have Never Finished
+## 5：从未开始，亦未完成 5: To Have Never Begun, To Have Never Finished
+**5：从未开始，亦未完成**
+如果说巴塔耶的后结构主义（post-structuralist）织物是由很大程度上（后）马克思主义谱系的材料编织而成，那么它也可能引发一个直接且随之而来的宣告：巴塔耶复兴的潜在性伴随着一个有问题的、最终存在缺陷的传统之残余的重新出现，该传统固着于经济层面，并构想了一个自由与普遍兄弟情谊的未来黄金时代。相反地，虽然无政府主义传统无疑因其将无-治（an-archy）的力量从其版本的无政府主义中逻辑排除而受到指责（这是在它所违背之物的名义下创建形式教条的核心问题），但它仍为对巴塔耶作品进行新的冥想提供了一个有趣的出发点，人们只能希望，这一冥想能为有趣的逃逸线（lines of flight）（后无政府主义/post-anarchisms、后左翼/post-left、虚无主义无政府主义/nihilist anarchisms 和反文明无政府主义/anti-civilization anarchisms，仅举三例）提供自身。在提出这一点时，我遇到了第二个问题：无政府主义传统也作为一种文化现象出现，沉浸在人本主义启蒙（humanist enlightenment）范式的残余之中。这个问题至少通过聚焦于态度（attitude）而得到部分解决，我准备坚持认为，这种态度更易于对其中一些思想范式进行批判性考察：独特的是，无政府主义的态度在于审视国家/权力（State/power）逻辑本身——而后无政府主义通过国家-装配体（State-assemblages）的隐喻分析权力/中介（power/mediation）的多重构型，从而推进了这一点——并且它在这样做时，没有将这些构型笼罩在阶级和政治经济学的短视术语之中。现在应该清楚，这篇文章既是不诚实的（在其将巴塔耶解读为后无政府主义者方面），又是诚实的（在其根据巴塔耶来解读无政府主义方面），并且我为自己设定的任务无非是对所有激进认识论（radical epistemologies）的直接行动（direct action）：打破所有-主义（-isms）已然破裂的基础，并在此过程中，最终授予无-治其在诸国家与诸形式世界中的应有地位。齐美尔（Simmel）在这一点上始终切中要害：“尽管这些形式产生于生命过程，但由于其独特的星座，它们并不分享生命的不安节奏，其上升与下降，其不断的更新，其无尽的分裂与重聚”（1971: 375）。如果我们可以说希望值得保留，那就让它为了一个能够摆脱观念（idea）及其后续形式之权威的世界；虽然我们可以让一千个希望区块（hope blocs）绽放，但我们可能仍然只希望找到能够短路激进者常规意识（routine-consciousness of radicals）的词语：希望这些词语能立即震撼并重塑你：阻碍你们无政府主义者的唯一事物，就是你们的无政府主义。
+## 0：排泄物 0: Excrement
+>*“这最后的挪用——哲学以及科学或常识的工作——包含了反抗和丑闻的阶段，但它总是以建立世界同质性（homogeneity）为目标，并且只有当该操作不可还原的 waste products 被确定时，它才能导向排泄意义上的最终阶段”*（Bataille, 1985: 96–97）。
+## 参考 References
+*   de Acosta, Alejandro. (2009). *How the Stirner eats gods*. In *Anarchy: A Journal of Desire Armed* (#67).
+*   Auslander, Philip. (2007). *Theory for performance studies: A student's guide (Theory 4)*. Routledge.
+*   Bakunin, Mikhail. (1984). *Political philosophy: Scientific anarchism* (G.P. Maximoff, Ed.). London: Free Press of Glencoe.
+*   Bakunin, Mikhail. (1971). *Bakunin on anarchism* (Sam Dolgoff, Ed., Trans.). Vintage Books.
+*   Bakunin, Mikhail. (1873) [1953]. *Statism and anarchy*. In *The political philosophy of Bakunin* (G.P. Maximoff, Ed.). New York: The New York Free Press.
+*   Bataille, Georges. (1993). *The accursed share: Volume 3: The history of eroticism and sovereignty*. New York: Zone Books.
+*   Bataille, Georges. (1992). *Theory of religion* (Robert Hurley, Trans.). New York: Zone Books.
+*   Bataille, Georges. (1988). *The accursed share: An essay on general economy (Volume 1: Consumption)*. New York: Zone Books.
+*   Bataille, Georges. (1985a). *Nietzschean chronicle*. In *Visions of excess*. Minnesota: University of Minnesota Press. pp. 202–212.
+*   Bataille, Georges. (1985b). *The psychological structure of fascism*. In *Visions of excess*. Minnesota: University of Minnesota Press. pp. 137–160.
+*   Berkman, Alexander. [2003]. *What is anarchism?* Oakland, CA: AK Press.
+*   Bey, Hakim. (1993) [2009]. *Ontological anarchy in a nutshell*. Retrieved on July 16th, 2009 from deoxy.org
+*   Biles, Jeremy. (2007). *Ecce Monstrum: Georges Bataille and the sacrifice of form*. New York: Fordham University Press.
+*   Botting, Fred., & Scott Wilson (Eds.) (1991). *Bataille: A critical reader*. Wiley-Blackwell.
+*   Call, Lewis. (2002). *Postmodern Anarchism*. Lexington Books.
+*   Davis, Kathy. (2008). *Intersectionality as buzzword: A sociology of science perspective on what makes a feminist theory successful*. *Feminist Theory*. 9(67).
+*   Day, Richard. J. F. (2005). *Gramsci is dead: Anarchist currents in the newest social movements*. London: Pluto Press.
+*   Dorfman, Ben. (2002). *The accursed share: Bataille as historical thinker*. *Critical Horizons*, 3(1): 37–71.
+*   Dupont, Frére. (2008). *Species being and other stories*. CA: Ardent Press.
+*   Fink, Bruce. (1996). *The Lacanian subject: Between language and jouissance*. (Edition 3). Princeton University Press.
+*   Goldhammer, Jesse. (2007). *Dare to know, dare to sacrifice: Georges Bataille and the crisis of the Left*. In *Reading Bataille now* (Shannon Winnubst., Ed.). Indiana: Indiana University Press.
+*   Goldhammer, Jesse. (2005). *The headless republic*. Ithaca: Cornell University Press.
+*   Hadot, Pierre. (2002). *What is ancient philosophy?* Cambridge, MA: Harvard University Press.
+*   Knabb, Ken. (2003). *Guy Debord: Complete cinematic works: Scripts, stills, documents*. Oakland, CA: AK Press.
+*   Koch, Andrew M. (1993). *Poststructuralism and the epistemological basis of anarchism*. *Philosophy of the Social Sciences*. 23(3).
+*   Kropotkin, Pyotr. [2005]. *Modern science and anarchism*. *The anarchists* (Irving Louis Horowitz, Ed.). New Brunswick, NJ: Aldine Transaction.
+*   Kropotkin, Pyotr. (1902). *Mutual aid: A factor of evolution*. Porter Sargent Publishers, New edition.
+*   Marx, Karl. (1867). *Capital (Vol. 1)*. Retrieved on July 15th, 2009 from www.marxists.org
+*   May, Todd. (1994). *The political philosophy of post-structuralist anarchism*. University Park, Pennsylvania: The Pennsylvania State University Press.
+*   Newman, Saul. (2004a). *Interrogating the master: Lacan and radical politics*. *Psychoanalysis, culture & society*. 9(3): 298. Also online at nosubject.com (Retrieved on July 14th, 2009).
+*   Newman, Saul. (2004b). *Anarchism and the politics of ressentiment*. In *I am not a man, I am dynamite! Freidrich Nietzsche and the anarchist tradition* (John Moore, Ed., with Spencer Sunshine). New York: Autonomedia.
+*   Newman, Saul. (2001). *From Bakunin to Lacan: Anti-authoritarianism and the dislocation of power*. Toronto: Lexington Books.
+*   Not Bored! n.d. [2009]. *Bataille: Accursed Stalinist*. Retrieved on July 16th, 2009 from www.notbored.org
+*   Ritzer, George. (2003). *The Blackwell companion to major contemporary social theorists* (2nd Edition). Wiley-Blackwell.
+*   Rousselle, Duane., Ed. (2009/forthcoming). *Anarchy at the brink: The post-anarchism anthology*. [in negotiation]
+*   Separating the Sands. [2009]. *Against strategic anarchism*. Retrieved on July 16th, 2009 from www.anarchistnews.org
+*   Simmel, Georg. (1971). *Georg Simmel on individuality and social forms* (Donald N. Levine, Ed.). Chicago: University of Chicago Press.
+*   Simmel, Georg. (1950). *The sociology of Georg Simmel* (Kurt Wolff, Trans., Ed.). Glencoe, IL: Free Press.
+*   Stirner, Max. (1907). *The ego and his own* (Steven T. Byington, Ed.). New York: Benjamin Tucker Publishing.
+*   Tomasi, Alessandro. (2008). *The role of intimacy in the evolution of technology*. *Journal of Evolution and Technology*. 17(1): 1–12.
+*   Tudor, David. (2006) [2009]. *John Cage — 4'33" by David Tudor (video)*. Retrieved on July 16th, 2009 from www.youtube.com
