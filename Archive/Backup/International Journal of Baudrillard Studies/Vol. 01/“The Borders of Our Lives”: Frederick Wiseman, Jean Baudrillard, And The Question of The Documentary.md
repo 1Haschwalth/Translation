@@ -1,5 +1,5 @@
 # “我们生活的边界”：弗雷德里克-怀斯曼、让-鲍德里亚和纪录片问题
->Dr. Alan Cholodenko, “The Borders of Our Lives”: Frederick Wiseman, Jean Baudrillard, And The Question of The Documentary
+>Dr. Alan Cholodenko, *“The Borders of Our Lives”: Frederick Wiseman, Jean Baudrillard, And The Question of The Documentary*
 >
 >ISSN: 1705-6411
 >
