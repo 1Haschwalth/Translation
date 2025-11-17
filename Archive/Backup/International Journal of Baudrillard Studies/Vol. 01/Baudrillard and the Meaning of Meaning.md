@@ -1,5 +1,5 @@
 # 鲍德里亚与意义的意义
->Dr. Victoria M. Grace,_Baudrillard and the Meaning of Meaning_
+>Dr. Victoria M. Grace, _Baudrillard and the Meaning of Meaning_
 >
 >ISSN：1705-6411
 >
