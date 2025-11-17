@@ -1,9 +1,11 @@
 # 让·鲍德里亚|来自激进的不确定性，或作为冒名顶替者的思想
->Jean Baudrillard, *From Radical Incertitude, or Thought as Imposter.* Alison Gingeras英译
+>Jean Baudrillard, *From Radical Incertitude, or Thought as Imposter.* 
 >
 >ISSN: 1705-6411
 >
 >第2卷，第1期（2005年1月）
+>
+>英译：Alison Gingeras
 >
 >《国际鲍德里亚研究杂志》感谢 Taylor and Francis Books (Routledge) 允许转载本文：Sylvere Lotringer & Sande Cohen. *French Theory in America.* New York: Routledge, 2001:59-69。
 
