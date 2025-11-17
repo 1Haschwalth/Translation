@@ -1,5 +1,5 @@
 # 过度停滞：全面迭代技术漫谈
->Joshua Nichols,Esotechnical Hyperstasis: An Excursus on the Technique of Total Iteration
+>Joshua Nichols, *Esotechnical Hyperstasis: An Excursus on the Technique of Total Iteration*
 >
 >ISSN: 1705-6411
 >
