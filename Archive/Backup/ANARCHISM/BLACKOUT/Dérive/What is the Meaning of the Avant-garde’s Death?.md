@@ -1,7 +1,7 @@
 # 先锋派之死的意义何在？
 >Mehdi Belhaj Kacem, Philippe Sollers | [What is the Meaning of the Avant-garde’s Death?](https://my-blackout.com/2019/12/20/mehdi-belhaj-kacem-philippe-sollers-what-is-the-meaning-of-the-avant-gardes-death/)
 >
->JORDAN LEE SCHNEE英译，[DIAPHANES](http://diaphanes.net/) 2019-07-11首发（中译：2023/10/13）
+>英译：JORDAN LEE SCHNEE，[DIAPHANES](http://diaphanes.net/) 2019/07/11首发（中译：2023/10/13）
 ## 但丁怎么会是前卫的？
 Mehdi Belhaj Kacem：索勒斯先生，您曾担任《Tel Quel》[^1]杂志的编辑长达 23 年之久，该杂志无疑是最后一份可被视为 "前卫 "的重要文学期刊。它发表了一些当时最重要的 "前卫 "作家的作品，如皮埃尔-居约塔[^2]、莫里斯-罗奇[^3]、让-雅克-舒尔[^4]（Pierre Guyotat, Maurice Roche, Jean-Jacques Schuhl）和您本人，以及雅克-德里达、罗兰-巴特和热拉尔-热奈特[^5]等仍默默无闻的学者的作品。您还出版了皮埃尔-布列兹（Pierre Boulez）[^6]和让-吕克-戈达尔（Jean-Luc Godard）的作品，他们与我刚才提到的作家和思想家一样，都是各自领域的先锋派领军人物。1983 年，您离开了为 Gallimard[^7] 出版杂志和书籍的 Les Éditions du Seuil。在那里，您创办了《L'Infini》杂志，该杂志与《Tel Quel》有很多不同之处。从《天堂》（Paradis，1981 年）到《女人》（Femmes，1983 年），您在文学道路上的转变也反映了这一转变，《天堂》是一部没有标点符号、长达近 300 页的独白小说，而《女人》则回归了相对 "经典 "的描述性、心理性和小说性风格。(我想指出的是，我这样说并不是要下定论。从某种意义上说，《女人》的 "形式 "反映了它的 "内容"，而 "内容 "已经代表了先锋派时代的死亡通知书）。您的这一举动在当时常常被解释为一种背叛--为了更 "主流 "的精神而背叛了某种 "前卫 "精神。无论如何，在我看来，这是先锋派消失的 "里程碑 "事件之一。在我看来，《Tel Quel》的消亡，以及您在写作中几乎放弃了所有 "实验 "技巧，是先锋派崩溃的最令人震惊的历史征兆之一。在此，我们将对其遗体进行初步解剖。
 
