@@ -49,7 +49,7 @@
 
 种族主义就是这样一种“新的分隔”。对差异心理剧的一种宣泄（abreaction）：一种对成为“他者”的幻想（phantasy）与痴迷（obsession）的回应。一条走出永久的对他者的内摄（introjection）与排斥的心理剧的出路。事实上，这种对差异的内摄是如此令人难以忍受，以至于必须不惜一切代价，通过使差异在物质上显现来驱除（exorcized）他者。种族主义的生物学主张毫无根据，但通过明确种族参照，种族主义确实揭示了每个结构系统核心的逻辑诱惑：将差异拜物教化（fetishize）的诱惑。但差异系统（differential systems）永远无法达到平衡：差异不断在绝对高点和绝对低点之间振荡（oscillate）。当涉及到对他异性和差异的管理时，温和平衡（well-tempered balance）的想法完全是乌托邦的。
 
-由于人文主义的差异逻辑（humanist logic of difference）在某种意义上是普遍的模拟（universal simulation）（其顶峰是“差异权”的荒谬性），尽管充满善意，它却直接导致了那种被称为种族主义的、关于差异的另一种绝望的幻觉（desperate hallucination）。随着差异和对差异的崇拜持续增长，另一种前所未有的、反常的（anomalous）且批判理性（critical rationality）无法触及的暴力增长得更快。塞加伦的“意想不到的鸿沟”不仅仅是新的差异：为了对抗世界的完全同质化（total homogenization）而涌现的是异形（Alien）——它是尸体般、病毒式的他者（corpse-like, viral Other）的 monstrous 隐喻：是被我们的系统扼杀的所有他异性变体的复合形式。
+由于人文主义的差异逻辑（humanist logic of difference）在某种意义上是普遍的模拟（universal simulation）（其顶峰是“差异权”的荒谬性），尽管充满善意，它却直接导致了那种被称为种族主义的、关于差异的另一种绝望的幻觉（desperate hallucination）。随着差异和对差异的崇拜持续增长，另一种前所未有的、反常的（anomalous）且批判理性（critical rationality）无法触及的暴力增长得更快。塞加伦（Segalen）的“意想不到的鸿沟（unanticipated gaps）”不仅仅是新的差异：为了对抗世界的完全同质化（total homogenization）而涌现的是异形（Alien）——它是尸体般、病毒式的他者（corpse-like, viral Other）的一个骇人（monstrous）​隐喻：是被我们的系统所扼杀的所有他异性变体的复合形式。
 
 这是一种因缺乏任何生物学基础，而抓住符号秩序（order of signs）中最微小变异的种族主义；一种迅速呈现出病毒性和自动性特征，并在一种普遍化的符号学（generalized semiotics）中狂欢并自我永存的种族主义。而这种种族主义永远无法被任何人文主义的差异观（humanism of difference）所对抗，原因很简单，它本身就是差异的病毒（virus of difference）。
 
@@ -67,7 +67,7 @@
 
 与此同时，其他文化从未宣称过普遍性（universality）。他们也从未声称自己是不同的——直到差异作为一种文化鸦片战争的一部分被强行注入他们体内。他们基于自身的独异性（singularity）、自身的例外性（exceptionality）、基于自身仪式和价值不可化约性（irreducibility）而生活。他们无法从所有差异都可以调和的致命幻觉（lethal illusion）中得到安慰——这个幻觉对他们而言只意味着毁灭（annihilation）。
 
-掌握他异性和差异的普遍符号（universal symbols），就是掌握世界。那些将差异概念化（conceptualize difference）的人在人类学上（anthropologically）是优越的——自然如此，因为正是他们发明了人类学。他们拥有所有权利，因为权利也是他们的发明。那些不将差异概念化、不参与差异游戏（play the game of difference）的人必须被灭绝。西班牙人登陆时的美洲印第安人就是一个例子。他们对差异一无所知；他们栖居于激进的他异性（radical otherness）之中。（西班牙人在他们眼中并非不同：他们只不过是神，仅此而已。）这就是西班牙人开始摧毁这些民族的狂怒（fury）的原因，这种狂怒没有宗教理由，没有经济理由，也没有任何其他理由，除了印第安人犯下了一项绝对罪行：他们未能理解差异。当他们发现自己不得不加入一种不再是激进的、而是在普遍概念（universal concept）庇护下可协商的他异性时，他们宁愿选择集体自焚（mass self-immolation）——因此他们那边允许自己死亡的 fervour：与西班牙人疯狂的杀戮冲动（mad urge to kill）相对应。印第安人在他们自己灭绝过程中的奇怪共谋（strange collusion），代表了他们保守他异性秘密的唯一方式。
+掌握他异性和差异的普遍符号（universal symbols），就是掌握世界。那些将差异概念化（conceptualize difference）的人在人类学上（anthropologically）是优越的——自然如此，因为正是他们发明了人类学。他们拥有所有权利，因为权利也是他们的发明。那些不将差异概念化、不参与差异游戏（play the game of difference）的人必须被灭绝。西班牙人登陆时的美洲印第安人就是一个例子。他们对差异一无所知；他们栖居于激进的他异性（radical otherness）之中。（西班牙人在他们眼中并非不同：他们只不过是神，仅此而已。）这就是西班牙人开始摧毁这些民族的狂怒（fury）的原因，这种狂怒没有宗教理由，没有经济理由，也没有任何其他理由，除了印第安人犯下了一项绝对罪行：他们未能理解差异。当他们发现自己不得不加入一种不再是激进的、而是在普遍概念庇护下可协商的他异性时，他们宁愿选择集体自焚（mass self-immolation）——因此他们那边允许自己死亡的狂热（fervour）：与西班牙人疯狂的杀戮冲动（mad urge to kill）相对应。印第安人在他们自己灭绝过程中的奇怪共谋（strange collusion），代表了他们保守他异性秘密的唯一方式。
 
 科尔特斯（Cortes）、耶稣会士（Jesuits）、传教士，以及后来的人类学家——甚至茨维坦·托多罗夫（Tzvetan Todorov）本人在其《美洲的征服》（Conquest of America）中——都站在了可协商的他异性（negotiable otherness）一边。（拉斯·卡萨斯（Las Casas）是唯一的例外：在他生命的后期，他建议纯粹简单地放弃征服，让印第安人回归他们自己的命运。）所有这些开明之士（enlightened souls）都相信差异的恰当使用。激进的他者（radical Other）是无法容忍的：他不能被灭绝，但也不能被接受，因此必须推广可协商的他者、差异的他者（other of difference）。这就是一种更精巧的灭绝形式开始的地方——一种涉及现代性所有人文主义美德的形式。
 
@@ -81,7 +81,7 @@
 
 一切都屈从于这个系统，同时又逃脱其控制。世界各地那些采用西方生活方式的群体从未真正认同它，并且实则对其心怀蔑视。相对于这个价值体系，他们仍然是离心（excentric）的。他们同化的方式，他们常常在遵守西方礼仪上比西方人自己更皈依者狂热（fanatical），带有一种明显的、亦步亦趋的拙劣模仿/效颦（aping）​特质：他们是在用启蒙运动（Enlightenment）、“进步”（“progress”）的破碎零片进行一种拼装（bricolage）。即使当他们与西方谈判或结盟时，他们继续相信他们自己的方式根本上是正确的。也许，像阿拉卡卢夫人一样，这些群体将会消失，而从未认真对待过白人。（就我们而言，我们确实非常认真地对待他们，无论我们的目的是同化他们还是摧毁他们：他们甚至正迅速成为我们整个价值体系的关键的——负面的——参照点。）
 
-白人也许有一天自己也会消失，而从未理解他们的白性（whiteness）仅仅是所有种族和文化混杂（promiscuity）和混淆（confusion）的结果，正如白光的白性（whiteness）仅仅是所有色彩悲喜剧的 resolution。也正如色彩只有在根据波长的普遍尺度（universal scale of wavelengths）进行衡量时才变得彼此可比，文化也只有在被置于差异的结构性尺度（structural scale of differences）上时才变得可比。但这里存在双重标准（double standard），因为只有对西方文化而言，其他文化才是不同的。对那些其他文化自身而言，白人甚至不是不同的——他们是不存在的（non-existent），是来自另一个世界的幽灵（phantoms）。外表上皈依西方方式总是隐藏着对内里西方霸权（Western hegemony）的嘲弄（scoffing）。这让人想起那些多贡人（Dogons），他们编造梦来迎合他们的精神分析师，然后将这些梦作为礼物送给分析师。过去我们鄙视其他文化；现在我们尊重它们。然而，它们并不尊重我们的文化；它们对我们的文化只感到一种巨大的居高临下（immense condescension）。我们或许通过征服赢得了剥削和征服这些文化的权利，但它们却为自己提供了神秘化（mystifying）我们的奢侈。
+白人也许有一天自己也会消失，而从未理解他们的白性（whiteness）仅仅是所有种族和文化混杂（promiscuity）和混淆（confusion）的结果，正如白光的白性仅仅是所有色彩悲喜剧的终局（resolution）。也正如色彩只有在根据波长的普遍尺度（universal scale of wavelengths）进行衡量时才变得彼此可比，文化也只有在被置于差异的结构性尺度（structural scale of differences）上时才变得可比。但这里存在双重标准（double standard），因为只有对西方文化而言，其他文化才是不同的。对那些其他文化自身而言，白人甚至不是不同的——他们是不存在的（non-existent），是来自另一个世界的幽灵（phantoms）。外表上皈依西方方式总是隐藏着对内里西方霸权（Western hegemony）的嘲弄（scoffing）。这让人想起那些多贡人（Dogons），他们编造梦来迎合他们的精神分析师，然后将这些梦作为礼物送给分析师。过去我们鄙视其他文化；现在我们尊重它们。然而，它们并不尊重我们的文化；它们对我们的文化只感到一种巨大的居高临下（immense condescension）。我们或许通过征服赢得了剥削和征服这些文化的权利，但它们却为自己提供了神秘化（mystifying）我们的奢侈。
 
 阅读布鲁斯·查特温（Bruce Chatwin）的《歌之版图》（Songlines）后，给人留下最奇怪的感觉是一种对“线”本身现实性的挥之不去的困惑：这些诗意的和音乐的路线、这些歌、这个“梦创时代”（“dreamtime”），真的存在吗？在所有这些叙述中，都有一丝神秘化（mystification）的意味；一种神话般的视觉错觉（mythic optical illusion）似乎在起作用。仿佛原住民（Aboriginals）在搪塞（fobbing off）我们。在揭示最深刻、最真实的真理（最神秘的澳大利亚神话）的同时，他们也渲染（play up）最现代和最具假设性的考量：任何叙事都无法解决（irresolvability），对起源的绝对怀疑（absolute doubt）。要让我们相信这些神奇的事情，我们需要感觉他们自己相信它们。但这些原住民似乎以一种戏谑狡黠（mischievous）的乐趣，维持着含蓄其辞与迂回回避（allusive and evasive）。他们给出一些线索，但从不告诉我们游戏规则，人们不禁得到一种印象，他们在即兴发挥（improvising），迎合（pandering to）我们的幻想，但不提供任何保证他们所说的是真实的。这无疑是他们保守秘密同时取笑我们的一种方式——因为最终，我们是唯一想相信这些故事的人。
 
