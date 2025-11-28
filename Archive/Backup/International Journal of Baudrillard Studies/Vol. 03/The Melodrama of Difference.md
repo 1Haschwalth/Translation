@@ -1,4 +1,4 @@
-# 差异的悲喜剧
+# 让·鲍德里亚|差异的悲喜剧
 >The Melodrama of Difference
 >
 >ISSN: 1705-6411
