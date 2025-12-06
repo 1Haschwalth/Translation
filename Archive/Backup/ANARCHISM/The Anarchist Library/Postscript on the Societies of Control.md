@@ -1,5 +1,7 @@
 # 控制社会后记
->Gilles Deleuze, [*Postscript on the Societies of Control*](https://theanarchistlibrary.org/library/gilles-deleuze-postscript-on-the-societies-of-control)
+>Gilles Deleuze, [Postscript on the Societies of Control](https://theanarchistlibrary.org/library/gilles-deleuze-postscript-on-the-societies-of-control)
+>
+>本文首刊于《他者杂志》（*L’Autre journal*）1990年5月第1期，并收录于即将出版的《谈判》（*Pourparlers*，巴黎：子夜出版社，1990年，(Paris: Editions Minuit, 1990)）英译本中，该译本将由哥伦比亚大学出版社（Columbia University Press）出版。
 ## 一、历史学 1. Historical
 福柯（Foucault）将*规训社会（disciplinary societies*）定位在18与19世纪；它们在20世纪初达到顶峰。这些社会开创了庞大禁锢空间（spaces of enclosure）的组织。个体不断地从一个封闭环境过渡到另一个，每个环境都有其自身的法则：首先是家庭；接着是学校（“你不再身处家庭”）；然后是军营（“你不再身处学校”）；接着是工厂；时而还有医院；可能还有监狱，这是封闭环境的卓越范例。监狱正是一个类比模型（analogical model）：看到一些工人时，罗西里尼（Rossellini）电影《欧洲51年》（*Europa '51*）的女主角可能会惊呼，“我以为我看到了囚犯”。
 
