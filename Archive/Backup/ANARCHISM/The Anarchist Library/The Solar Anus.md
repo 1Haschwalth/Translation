@@ -1,7 +1,7 @@
 # 太阳肛门
 > [Georges Bataille](https://theanarchistlibrary.org/category/author/georges-bataille), [The Solar Anus](https://theanarchistlibrary.org/library/georges-bataille-the-solar-anus)
 
-显然，世界纯粹是拙劣模仿（parody）的；换言之，所见之每一事物皆为另一事物的拙劣模仿，或以欺骗性形式呈现同一事物。
+很明显，世界纯粹是拙劣模仿（parody）的；换言之，所见之每一事物皆为另一事物的拙劣模仿，或以欺骗性形式呈现同一事物。
 
 自从语句开始在致力于反思的大脑里循环往复，一种追求全然认同的努力便已启动——因为凭借系词（copula）之助，每个句子皆将一物系于另一物；倘若能在一瞥之间且在其整体性中，发现那引导思想进入自身迷宫的阿里阿德涅之线（Ariadne’s thread）的轨迹，则万物之联系将清晰可见。
 
