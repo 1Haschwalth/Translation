@@ -17,4 +17,6 @@
 ## 附件
 [**Accelerate - Robin Mackay.pdf**](https://files.libcom.org/files/Accelerate%20-%20Robin%20Mackay.pdf)(5.06 MB)
 ## *
-中译：2024/1/30
+中译时间：2024/1/30
+
+**译者注：本书只是科普读物，仅供学习交流及思想批判，并非译者立场。以下为本章正文，脚注略。**
