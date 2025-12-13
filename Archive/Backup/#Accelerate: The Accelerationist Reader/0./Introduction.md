@@ -1,4 +1,4 @@
-<img width="126" height="19" alt="image" src="https://github.com/user-attachments/assets/ec696a18-ffe2-4799-b9f5-c743ea0f22b0" /># 介绍<br>Introduction<br>Robin Mackay + Armen Avanessian 
+# 介绍<br>Introduction<br>Robin Mackay + Armen Avanessian 
 **1858**
 
 *这门科学通过其构造，迫使机械的无生命部件按照预定目的运转；如同自动机一般。它并非存在于工人的意识之中，而是作为一种异己的力量（alien power） 通过机器作用于工人。*
