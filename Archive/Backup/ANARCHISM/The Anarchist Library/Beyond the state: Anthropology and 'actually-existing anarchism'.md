@@ -1,4 +1,4 @@
-# 超越国家：人类学与“实存无政府主义”
+# 超越国家：人类学与“实际存在的无政府主义”
 >[Beyond the state](https://theanarchistlibrary.org/library/andrew-robinson-and-simon-tormey-beyond-the-state): Anthropology and 'actually-existing anarchism'
 >
 >作者：安德鲁·罗宾逊（[Andrew Robinson](https://theanarchistlibrary.org/category/author/andy-robinson)）, 西蒙·托米（[Simon Tormey](https://theanarchistlibrary.org/category/author/simon-tormey)）
