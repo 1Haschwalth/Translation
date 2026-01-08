@@ -1,8 +1,6 @@
 # 行星计算的新哲学
 >https://www.noemamag.com/a-new-philosophy-of-planetary-computation/
->
->作者：本杰明·布拉顿（Benjamin Bratton, 2022/10/5）（排版有修改）
-## 前言
+## 
 >安提基特拉（Antikythera）是一个新设立的研究项目，旨在审视一场正在展开的激进哲学事件的影响：行星尺度计算（planetary-scale computation）的兴起。
 >
 >本杰明·布拉顿（Benjamin Bratton）是伯格鲁恩研究院（Berggruen Institute）安提基特拉（Antikythera）项目的负责人，也是加州大学圣地亚哥分校（University of California, San Diego）的教授。
@@ -20,7 +18,7 @@
 目前正在[开放申请](https://antikythera.org/#studio)，以加入该项目为期五个月、全额资助的跨学科研究工作室，该工作室将于2023年2月至6月在洛杉矶、墨西哥城和首尔开展。这个工作室将由超过70位领先的哲学家、研究科学家和设计师组成的团队加入。
 
 为纪念安提基特拉（Antikythera）的启动，Noema 杂志副主编尼尔斯·吉尔曼（Nils Gilman）与布拉顿（Bratton）就推动该计划的关键概念进行了对话。
-## 对话
+## 
 **尼尔斯·吉尔曼（Nils Gilman）：** [安提基特拉机械装置（The Antikythera mechanism）](https://www.nytimes.com/2014/11/25/science/solving-the-riddles-of-an-early-astronomical-calculator.html)于1901年在希腊一个小岛附近的海难中被发现。其年代可追溯到大约公元前200年，该装置不仅能够计算，还可能被用于根据行星和恒星的运行来定位全球表面的导航。请告诉我为什么这个物体会成为该项目的灵感来源。
 
 **本杰明·布拉顿（Benjamin Bratton）：** 对我们来说，安提基特拉机械装置（Antikythera mechanism）既代表了计算的起源，也激发了计算未来潜力的灵感。安提基特拉（Antikythera）将计算的起源定位于导航、定位，实际上也定位于宇宙学（cosmology）——包括该术语的天文学和人类学意义。安提基特拉（Antikythera）将计算配置为一种“行星性（planetary）”的技术，而行星性（planetary）则是技术思想的象征。与许多大陆哲学正统观念相反，它表明，通过计算机制进行思考不仅允许“纯粹的计算”，而且允许智能（intelligence）根据其行星条件（planetary condition）来定位自身。通过思考由此提供的抽象，智能对其自身的可能性和能动性有了一定的认识。
