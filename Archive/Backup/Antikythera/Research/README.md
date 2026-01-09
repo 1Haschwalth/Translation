@@ -1,7 +1,7 @@
 # 安提基特拉 Antikythera
 >https://research.antikythera.org/
 >
->by Benjamin Bratton<br>with Channel Studio
+>by Benjamin Bratton with Channel Studio
 ## 导言 Introduction
 ## “万物皆为计算机！”：迈向一种新的计算思辨哲学（亦即关于生命、智能、自动化与行星组合性演化的哲学） “Everything’s Computer!”: For a New Speculative Philosophy of Computation (Which is to Say, of Life, Intelligence, Automation, and the Compositional Evolution of Planets)
 ### 行星计算的思辨哲学 Speculative Philosophy of Planetary Computation
