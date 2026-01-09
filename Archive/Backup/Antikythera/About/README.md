@@ -1,3 +1,5 @@
+>https://antikythera.org/about
+## 
 Antikythera是一个研究与开发机构，致力于理解行星智能（planetary intelligence）的演化，并展望其通过计算系统实现规模化发展的前景。
 
 Antikythera得名于已知最早的计算机——*安提基特拉机械装置（the antikythera mechanism）*，该装置是一种用于行星定位、导航、预测与规划的工具。此名称旨在启发对计算技术的探索，这些技术不仅能实现巨大的计算壮举，还能揭示并加速行星智能（planetary intelligence）的发展。
