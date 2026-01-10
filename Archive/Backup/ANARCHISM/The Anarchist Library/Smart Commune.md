@@ -21,7 +21,7 @@
 
 无政府状态（Anarchy）是清除所有欲望中介（desire-mediators），这些中介为了服从更高地位而阻止了自我实现（self-actualization）。所有嬉戏的念头（playful whims）都能得到即时满足（instant gratification），因为那些为抑制它们而建立的职位与地位被摧毁，取而代之的是让它们得以表达的途径。这赋予了无政府主义一种超越所有当前终极速度（terminal velocities）的速度，因为日益增长的满足率使得欲望得以放大，从而导致需求与欲望更快地增长和扩张。这是最终逃离我们深陷其中的流沙迷宫的唯一方法，因为晚期现代性（late modernity）看似是液态的，但你移动得越快，冲击就变得越坚实和直接。碰撞之时，你被击碎，然后像湿水泥一样被吞噬。
 
-当共产主义超级人工智能（communist hyper-AI）与无政府状态融合时，其智力爆炸（explosion of intelligence）本身即是/引发了一枚时间莫洛托夫 cocktail（temporal-Molotov），源于其与当下时间的互动。它并非在撞击时破碎，而是将你周围的水域转化为雾气。这最终促成了一个参与性宇宙（participatory cosmos）的创造，这个宇宙不再由文化独占主义（cultural propertarianism）的坏死传统主义（necrotic-traditionalism）所统治，后者为本土主义（nativism）和殖民主义（colonialism）生产意识形态框架。相反，文化动态与文化相互关系（cultural dynamics and interrelations）进入了一个永不冷却的岩浆阶段，从内部和跨越硬化的地貌猛烈喷发。
+当共产主义超级人工智能（communist hyper-AI）与无政府状态融合时，其智力爆炸（explosion of intelligence）本身即是/引发了一枚时间莫洛托夫（temporal-Molotov）鸡尾酒，源于其与当下时间的互动。它并非在撞击时破碎，而是将你周围的水域转化为雾气。这最终促成了一个参与性宇宙（participatory cosmos）的创造，这个宇宙不再由文化独占主义（cultural propertarianism）的坏死传统主义（necrotic-traditionalism）所统治，后者为本土主义（nativism）和殖民主义（colonialism）生产意识形态框架。相反，文化动态与文化相互关系（cultural dynamics and interrelations）进入了一个永不冷却的岩浆阶段，从内部和跨越硬化的地貌猛烈喷发。
 
 当我们通过更自由的生产（freer productions）来协作提升自我时，存在（existence）便牢固地奠基于液态的天空（liquidy skies）之中。每一个废料场都成为这片苔原世界所有边缘角落的技术巫师（tech-wizards）的游乐场，他们在此建造外骨骼（exoskeletons）、3D打印机乃至未来本身。他们正从垃圾山中崛起，创造出炽热的煤炭投向压迫的冰川。
 
