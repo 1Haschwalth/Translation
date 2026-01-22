@@ -1,5 +1,7 @@
 # 行星计算的新哲学
->https://www.noemamag.com/a-new-philosophy-of-planetary-computation/
+>[A New Philosophy Of Planetary Computation](https://www.noemamag.com/a-new-philosophy-of-planetary-computation/)
+>
+>本杰明·布拉顿（Benjamin Bratton, 2022/10/5）
 ## 
 >安提基特拉（Antikythera）是一个新设立的研究项目，旨在审视一场正在展开的激进哲学事件的影响：行星尺度计算（planetary-scale computation）的兴起。
 >
