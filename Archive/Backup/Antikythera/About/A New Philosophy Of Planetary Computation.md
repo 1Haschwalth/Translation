@@ -1,5 +1,5 @@
 # 行星计算的新哲学
->[A New Philosophy Of Planetary Computation](https://www.noemamag.com/a-new-philosophy-of-planetary-computation/)
+>https://www.noemamag.com/a-new-philosophy-of-planetary-computation/
 >
 >本杰明·布拉顿（Benjamin Bratton, 2022/10/5）
 ## 
