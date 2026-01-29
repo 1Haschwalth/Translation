@@ -1,5 +1,5 @@
 # 通过可扩展消息和在场协议集成通信和合并消息
->**[Martin A. Coleman](https://arxiv.org/search/cs?searchtype=author&query=Coleman,+M+A), [*Integrating Communications and Merging Messaging via the eXtensible Messaging and Presence Protocol*](https://doi.org/10.48550/arXiv.1309.5568)**
+>[Martin A. Coleman](https://arxiv.org/search/cs?searchtype=author&query=Coleman,+M+A), [Integrating Communications and Merging Messaging via the eXtensible Messaging and Presence Protocol](https://doi.org/10.48550/arXiv.1309.5568)
 ### 摘要
 影响现代电子邮件使用的常见问题包括垃圾邮件、缺乏发件人验证、缺乏内置安全性和缺乏信息完整性。本文探讨了我们如何利用可扩展消息和在场协议（又称 XMPP）来取代电子邮件设施。我们将介绍几种方法，以便在对现有网络和电子邮件基础设施造成最小干扰的情况下，启动从 SMTP 电子邮件向依靠 XMPP 固有优势的过渡。我们研究了如何使用程序打开现有的 POP3/IMAP 账户，扫描可发送给 XMPP 网络用户的邮件，提取邮件，然后将其发送到 XMPP 用户的客户端。我们将展示该系统的实施和部署过程，并将麻烦和网络中断降到最低，从而证明 XMPP 是当今电子邮件可靠、快速的替代品。
 
