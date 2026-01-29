@@ -1,5 +1,11 @@
 # #ACCELERATE: The Accelerationist Reader
 > https://libcom.org/library/accelerate-accelerationist-reader
+>
+> 作者：罗宾·麦凯、阿尔缅·阿瓦内西安（Robin Mackay+ Armen Avanessian, 2014/4）
+>
+> 译者：（2024/1/30）
+>
+> **译者注：本书只是科普读物，仅供学习交流及思想批判，并非译者立场。**
 
 **libcom编辑注：部分加速主义者（尤其是尼克·兰德）与极右翼"新反动主义"运动关系密切，而非左翼或激进政治。本刊物收录此内容仅为方便研究该运动，并不表示认同其观点。**
 
