@@ -1,5 +1,7 @@
 # 使用可扩展消息和在场协议（XMPP）的隐写术
-> **[*Steganography using the Extensible Messaging and Presence Protocol (XMPP)*](https://doi.org/10.48550/arXiv.1310.0524).by [Reshad Patuck](https://arxiv.org/search/cs?searchtype=author&query=Patuck,+R), [Julio Hernandez-Castro](https://arxiv.org/search/cs?searchtype=author&query=Hernandez-Castro,+J)**. *School of Computing, University of Kent, Cornwallis South Building, Canterbury, CT2 7NF, UK*
+> [Steganography using the Extensible Messaging and Presence Protocol (XMPP)](https://doi.org/10.48550/arXiv.1310.0524).
+>
+> by [Reshad Patuck](https://arxiv.org/search/cs?searchtype=author&query=Patuck,+R), [Julio Hernandez-Castro](https://arxiv.org/search/cs?searchtype=author&query=Hernandez-Castro,+J). *School of Computing, University of Kent, Cornwallis South Building, Canterbury, CT2 7NF, UK*
 ### 摘要
 我们首次提出了在可扩展消息和在场协议（XMPP）中隐藏数据的不同机制。这是一种非常流行的即时通讯协议，被 Google Talk、Cisco、LiveJournal 等许多通讯平台所使用。本文介绍了如何在不引起任何中间人怀疑的情况下，从一个 XMPP 客户端向另一个客户端发送秘密信息。与其他试图在即时信息内容中隐藏数据的相关工作不同，本文描述的方法主要侧重于使用底层协议作为隐写术的手段。通过这种方法，我们提供了一种更强大的数据隐藏手段，并对其一般安全性进行了初步分析，特别是针对基于熵的隐写分析。
 
