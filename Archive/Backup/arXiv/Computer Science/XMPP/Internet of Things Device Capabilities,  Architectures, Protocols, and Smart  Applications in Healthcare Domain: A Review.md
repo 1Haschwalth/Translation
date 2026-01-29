@@ -1,5 +1,7 @@
 # 物联网设备能力、架构、协议和医疗保健领域的智能应用：综述
->**[*Internet of Things Device Capabilities, Architectures, Protocols, and Smart Applications in Healthcare Domain: A Review*](https://arxiv.org/abs/2204.05921). By Md. Milon Islam, Sheikh Nooruddin, Fakhri Karray, *Fellow, IEEE*, and Ghulam Muhammad, *Senior Member, IEEE*.**
+>[Internet of Things Device Capabilities, Architectures, Protocols, and Smart Applications in Healthcare Domain: A Review](https://arxiv.org/abs/2204.05921).
+>
+>By Md. Milon Islam, Sheikh Nooruddin, Fakhri Karray, *Fellow, IEEE*, and Ghulam Muhammad, *Senior Member, IEEE*.
 ### 摘要-
 如今，互联网已几乎遍及世界上每一个国家，并对人们的生活产生着前所未有的影响。在无线通信时代，物联网（IoT）因其多样化的应用而越来越受欢迎，并受到从业人员和学术界的高度关注。物联网是一项能让日常事物变得更精明、日常计算变得更智能、日常通信变得更有洞察力的技术。本文简要展示了最常见、最流行的物联网设备功能、架构和协议，以便为该领域的研究人员提供一个清晰的物联网技术概览。详细介绍了常见的物联网设备功能，包括硬件（Raspberry Pi、Arduino 和 ESP8266）和软件（操作系统和内置工具）平台。最近得到广泛发展和使用的架构包括三层架构、基于 SOA 的架构和基于中间件的架构。本研究还展示了物联网的流行协议，包括 CoAP、MQTT、XMPP、AMQP、DDS、LoWPAN、BLE 和 Zigbee，这些协议经常被用来开发智能物联网应用。此外，本研究还深入概述了基于物联网技术的潜在医疗保健应用，以解决各种医疗保健问题。最后，本文总结了最新知识，强调了尚未解决的问题和不足之处，并提出了进一步研究的建议，这对任何有志于在这一领域开展工作并取得突破性进展的人来说都将大有裨益。
 
