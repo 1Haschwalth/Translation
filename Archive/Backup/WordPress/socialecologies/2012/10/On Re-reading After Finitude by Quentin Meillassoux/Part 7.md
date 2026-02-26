@@ -1,6 +1,9 @@
 # 重读昆汀·梅亚苏的《有限性之后》- 第七部分
+
 S.C. Hickman, [On Re-reading After Finitude by Quentin Meillassoux- Part VII](https://socialecologies.wordpress.com/2012/10/24/on-re-reading-after-finitude-by-quentin-meillassoux-part-vii/). 2012/10/24
+
 ## 
+
 >“伽利略在理解数学与世界之间的联系上带来了什么根本性变化？……伽利略……用数学术语来构想运动本身，特别是那看起来是所有运动中最变化无常的：地上的物体。通过这样做，他超越了位置和速度的变化，揭示了运动的数学不变量（mathematical invariant）——即加速度（acceleration）。”
 >——昆汀·梅亚苏（Quentin Meillassoux）
 >
@@ -34,3 +37,8 @@ S.C. Hickman, [On Re-reading After Finitude by Quentin Meillassoux- Part VII](ht
 总结时，他告诉我们，这些问题的解决将需要未来的进一步澄清和努力，并且“此处的目标并非具体探讨这种解决本身。我们的目标一直是尝试说服读者，不仅重新发现思想的绝对化范围是可能的，而且鉴于科学的哥白尼主义与哲学的托勒密主义之间的分裂已变得何其深远，我们迫切需要这样做，无论那些只是试图延续这种分裂的否认有多少”（《有限性之后》：第207页）。他对此主题的最终看法是，如果“休谟问题将康德从独断的迷梦（dogmatic slumber）中唤醒，那么我们只能希望祖源性（历时性）问题能够成功地将我们从关联主义的迷梦（correlationist slumber）中唤醒，通过敦促我们去调和思想与绝对”（《有限性之后》：第207页）。
 
 至此，我留给读者去思考这该如何实现。我只是试图传达一组笔记而非评论，以理解梅亚苏哲学所围绕的那些议题与关切，以及它为何对我们当前的思辨转向（speculative turn）产生如此影响。问题仍未解决，但解决它们的路径已被反复阐明，最终它要么通向一个解决方案，要么通向一个死胡同。只有时间能告诉我们，在这趟新的旅程中，思辨的路径还是唯物主义的路径将会胜出。
+
+## 参考
+
+1. After Finitude: An Essay on the necessity of Contingency (AF) (2008)
+2. The Grand Design by Stephen W. Hawking and Leonard Mlodinow ( 2010 Bantam Books)
