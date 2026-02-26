@@ -2,6 +2,7 @@
 >S.C. Hickman, [Ray Brassier: Death, Cosmic Schizophrenia, and Nick Land’s Accelerationism](https://socialecologies.wordpress.com/2012/10/07/ray-brassier-death-cosmic-schizophrenia-and-nick-lands-accelerationism/). 2012/10/07
 ## 
 > “他提议将批判激进化，将物质的表象（representation of matter）的理想性条件转换为理想性表象的物质性条件。在兰德（Land）的理论装置（apparatus）中，物质性（materiality）被完全理解为生产的生产（production of production）。兰德版本的先验唯物主义（transcendental materialism）变成了批判的物质化（materialization of critique）。”
+> 
 > ——雷·布拉西耶（Ray Brassier），《加速主义》
 
 雷·布拉西耶希望将兰德从他自身中拯救出来，并“展示‘否定的力量’有可能得到恢复”，以建立一种既是唯物主义的批判，又是批判的物质化的哲学。他告诉我们，兰德的文本中充斥着升华的愤怒，“一种非概念的否定性（non-conceptual negativity）……而这正是它们真正强大之处。”物质（Matter）是关键。与其说是我们在思考，不如说是物质在思考我们。正如布拉西耶所言：“兰德声称思考是物质性的一个功能……其主张是，物质本身是综合的和生产性的。”兰德是一位谢林式（Schellingian）思想家，因为消除先验主体，并促成“他所谓的‘强度的物质性’（intensive materiality）的一种自我综合的效力”，是其贯穿作品的核心主题。
