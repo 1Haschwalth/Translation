@@ -3,8 +3,8 @@ S.C. Hickman, [On Re-reading After Finitude by Quentin Meillassoux- Part VII](ht
 ## 
 >“伽利略在理解数学与世界之间的联系上带来了什么根本性变化？……伽利略……用数学术语来构想运动本身，特别是那看起来是所有运动中最变化无常的：地上的物体。通过这样做，他超越了位置和速度的变化，揭示了运动的数学不变量（mathematical invariant）——即加速度（acceleration）。”
 >——昆汀·梅亚苏（Quentin Meillassoux）
-
-（注：本系列文章写于2009-2010年间……并未反映自那时之后科学与哲学领域的变化。）
+>
+>（注：本系列文章写于2009-2010年间……并未反映自那时之后科学与哲学领域的变化。）
 
 ## 托勒密的复仇 Ptolemy’s Revenge
 
