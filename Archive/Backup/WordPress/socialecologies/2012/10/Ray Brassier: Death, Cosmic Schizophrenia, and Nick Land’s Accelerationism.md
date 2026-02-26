@@ -5,6 +5,8 @@
 > 
 > ——雷·布拉西耶《加速主义》（Ray Brassier, Accelerationism）
 
+![](http://pics.livejournal.com/earth_wizard/pic/0007fwwy)
+
 雷·布拉西耶希望将兰德从他自身中拯救出来，并“展示‘否定的力量’有可能得到恢复”，以建立一种既是唯物主义的批判，又是批判的物质化的哲学。他告诉我们，兰德的文本中充斥着升华的愤怒，“一种非概念的否定性（non-conceptual negativity）……而这正是它们真正强大之处。”物质（Matter）是关键。与其说是我们在思考，不如说是物质在思考我们。正如布拉西耶所言：“兰德声称思考是物质性的一个功能……其主张是，物质本身是综合的和生产性的。”兰德是一位谢林式（Schellingian）思想家，因为消除先验主体，并促成“他所谓的‘强度的物质性’（intensive materiality）的一种自我综合的效力”，是其贯穿作品的核心主题。
 
 布拉西耶将兰德思想中的这一脉络视为一种弱点，为唯物主义颠覆康德主义（Kantianism）和消除德勒兹（Deleuze）思想中的柏格森（Bergsonian）成分带来了一些困难。为什么？因为思想与存在（thought and being）之间的联系，即巴门尼德式（Parmenidian）的缺陷。如果思想与存在都被还原为基础物质（base matter）和生产性（productivity），那么就再也无法通达（access）二者，因为它们都是被生产的而非被给予的。正如布拉西耶所述：“他正在做一种唯物主义的形而上学，而这里存在一个问题：这种极其复杂的概念装置（conceptual apparatus）能对原初生产过程（primary production of process）、作为强度差异（intensive difference）的实在（the real）、物自体（matter in itself）——无论你想怎么称呼它——获得何种程度的把握（traction）？”
