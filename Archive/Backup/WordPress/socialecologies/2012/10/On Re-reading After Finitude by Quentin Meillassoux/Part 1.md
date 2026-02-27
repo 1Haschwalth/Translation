@@ -1,5 +1,5 @@
 # 重读昆汀·梅亚苏的《有限性之后》：第一部分
->S.C. Hickman, On re-reading Quentin Meillassoux’s After Finitude: Part I. 2012/10/18
+>S.C. Hickman, [On re-reading Quentin Meillassoux’s After Finitude: Part I](https://socialecologies.wordpress.com/2012/10/18/on-re-reading-quentin-meillassouxs-after-finitude/). 2012/10/18
 
 ## 
 >“经验科学（empirical science）如今能够产生关于生命乃至意识出现之前的事件（events anterior to the advent of life as well as consciousness）的陈述。”
