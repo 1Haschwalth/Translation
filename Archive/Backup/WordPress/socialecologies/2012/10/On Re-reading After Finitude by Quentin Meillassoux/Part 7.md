@@ -1,9 +1,7 @@
 # 重读昆汀·梅亚苏的《有限性之后》- 第七部分
-
-S.C. Hickman, [On Re-reading After Finitude by Quentin Meillassoux- Part VII](https://socialecologies.wordpress.com/2012/10/24/on-re-reading-after-finitude-by-quentin-meillassoux-part-vii/). 2012/10/24
+>S.C. Hickman, [On Re-reading After Finitude by Quentin Meillassoux- Part VII](https://socialecologies.wordpress.com/2012/10/24/on-re-reading-after-finitude-by-quentin-meillassoux-part-vii/). 2012/10/24
 
 ## 
-
 >“伽利略在理解数学与世界之间的联系上带来了什么根本性变化？……伽利略……用数学术语来构想运动本身，特别是那看起来是所有运动中最变化无常的：地上的物体。通过这样做，他超越了位置和速度的变化，揭示了运动的数学不变量（mathematical invariant）——即加速度（acceleration）。”
 >
 >——昆汀·梅亚苏（Quentin Meillassoux）
