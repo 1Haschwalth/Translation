@@ -9,6 +9,8 @@
 
 科学思想在其寻求发现“其自身绝对性之源（source of its own absoluteness）”的过程中所发生的激进化（radicalization），是昆汀·梅亚苏在《有限性之后》（After Finitude）第二篇文章中的关键。哲学必须“再次承担起认知绝对（know the absolute）的使命，并与排除其可能性的先验传统（transcendental tradition）决裂”（第50页）。这不是退回到形而上学（metaphysics）或独断论（dogmatism），相反，我们必须超越笛卡尔计划（Cartesian project）的不足，正如我们必须通过寻求另一种“与绝对的关系（relation to the absolute）”（第50页）来超越关联论者（correlationists）的康德式唯心主义（Kantian idealism）。
 
+![](http://pics.livejournal.com/earth_wizard/pic/0003k9qk)
+
 他论证道，笛卡尔对上帝的证明，或称“本体论证明（ontological proof）”，从上帝的完美本性/存在（perfect nature/being）推论出上帝的存在：既然他是完美的，并且既然存在（existence）是一种完美，上帝就不能不存在（第50页）。梅亚苏展示了关联论者可能反驳这个本体论论证的两种方式：一种是康德式的“弱（weak）”模式，另一种是当今似乎占主导地位的“强（strong）”模式（第50页）。反驳本体论证明的弱论证（weak argument）可归结为关联性循环性（circularity of the correlation）的简单基础，即“因为绝对必然性（absolute necessity）总是对我们而言的绝对必然性，所以必然性（necessity）从来不是绝对的，而永远只是对我们而言的必然性（第53页）。
 
 康德选择了另一条道路，他坚持认为，断言上帝不存在和断言上帝存在一样，都是一种逻辑矛盾（logical contradiction）。哈曼（Harman）告诉我们，这是因为对康德而言，自在之物（thing-in-itself）是不可知的，但他“坚持认为它是可思的（thinkable）”（第54页）。康德断言我们可以先天地（a priori）知道逻辑矛盾是绝对不可能的。格拉汉姆·哈曼（Graham Harman）告诉我们，“这就是为什么对康德来说，驳倒笛卡尔的论点是势在必行的——因为如果上帝不存在是矛盾的，那么根据康德自己的前提，上帝存在也将会是绝对必然的（absolutely necessary）。……因此，仅凭逻辑原则（logical principle）就能获得关于自在之物的肯定知识（positive knowledge）将成为可能”（第54-55页）。最终，康德选择追随休谟（Hume），论证“在设想一个确定实体（determinate entity）存在或不存在时，并不涉及矛盾”（第55页）。
