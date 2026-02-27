@@ -1,6 +1,6 @@
 # 重读昆汀·梅亚苏的《有限性之后》- 第六部分
 
->S.C. Hickman, On Re-reading After Finitude by Quentin Meillassoux – Part VI. 2012/10/23
+>S.C. Hickman, [On Re-reading After Finitude by Quentin Meillassoux – Part VI](https://socialecologies.wordpress.com/2012/10/23/931/). 2012/10/23
 
 ##
 
