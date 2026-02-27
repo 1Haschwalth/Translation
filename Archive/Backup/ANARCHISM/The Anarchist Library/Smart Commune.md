@@ -1,5 +1,5 @@
 # 智慧公社
->Post-Comprehension, [Smart Commune](https://theanarchistlibrary.org/library/post-comprehension-smart-commune)
+>Post-Comprehension, [Smart Commune](https://theanarchistlibrary.org/library/post-comprehension-smart-commune). 2023/2/14
 ## 组件一：点燃未来 *Component I: Kindling the future*
 一名挥舞着黑旗的纵火狂，在冰封的海洋中央能做什么？先从收集树枝细柴开始。即使这些木头灰暗潮湿，只要你的腹中燃烧着烈焰，任何事物都能让一切重新启动。革命者不应惧怕过去，也不应借过去来逃避未来，就像那些声称“一切方法都已试过，但温度就是无法升高！”的人一样。让我们重新开始想象，冲破这种固执。让我们从公社（commune）这个古老的幻想开始，但并非随便哪个版本。我们心中具体的愿景和童话，并非简单地指一个“共享的生活空间或社区”，例如中世纪那些存在于封建关系中的公社，甚或是今天一些人在资本关系的背景下共同分担住房、劳动及其他职责的社区；而更多地是指将时间变为共同（common）的公社。这种时间上的差异，在于一个人栖居于一个自由关系的宇宙，而不仅仅是存在于一个试图展现互助与合作关系、却面临既有及新产生的人际对抗（interpersonal antagonisms）的孤立区域，这些对抗会迅速显现为非正式权力结构（informal power structures）。这些内部不平等（internal inequalities）的斗争，会与尝试展现非等级制（nonhierarchical）行为和习惯的努力发生碰撞。当这个公社试图厘清这些不平等时，外部世界会为了资源和对其权威的服从而不断敲响前门。空气中充斥着多向度的碰撞。这种脱节的气氛如雨般落在居民身上，他们被碰撞和矛盾所淹没。他们试图维持的共同性（commonality）的微观体验，被宇宙并非自由这一事实所侵扰。那些在内外继续因阶级划分（class divisions）和偏见而体验着时间总体上是非共同（uncommon）的人，与这种共享生活（shared living）的感觉形成对比；如果并非所有人都自由，那么时间就仍然是从人类其余部分那里窃取而来，并被锁闭在支配者（dominators）及其管理（management）的手与心之后。中心化的外部（centralized outside）正在攻击去中心化的内部（decentralized inside），反之亦然。
 
