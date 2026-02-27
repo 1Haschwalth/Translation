@@ -10,6 +10,8 @@
 
 我们对非理由律（principle of unreason）的知识也有其谱系。这种反理性（counter-reason），这种形而上学的理性力量之下的哲学暗流，源于伟大的莱布尼茨（Leibniz）及其两个原则：非矛盾律（non-contradiction）和充足理由律（sufficient reason）；然后是通过黑格尔（Hegel），他绝对化（absolutization）了充足理由律，同时贬低了非矛盾律；接着通过维特根斯坦（Wittgenstein）和海德格尔（Heidegger），一种强关联主义（strong correlationism）坚定地取消了这两个原则的绝对性；最终我们来到梅亚苏这里，对他而言，非理由律“教导我们，正是因为充足理由律是绝对错误的，非矛盾律才是绝对真实的”（《有限性之后》（After Finitude）：第116页）。
 
+![](http://pics.livejournal.com/earth_wizard/pic/0004fy7t/s640x480)
+
 接下来，他着手处理莱布尼茨式的问题：“为什么存在某物而非一无所有（why is there something rather than nothing）？”他告诉我们，我们必须发现一种方法来克服“为我们-存在（for-us）”的自我-世界轴（self-world axis）的关联主义论证，并证明即使此刻所有生命都消解于无，世界仍将存在。世界的存在不需要我们：即使所有生命湮灭，世界本身（world in-itself）也将在“每一个与世界-关系（relation-to-the-world）的废除后继续存在（subsist）”（《有限性之后》：第117页）。但这个证明必须是非形而上学（non-metaphysical）的，不会从形而上学家的戏法柜子里召唤出一个“机械降神（deus-ex-machina）”，没有“第一推动者（Prime Mover）或至高存在（Supreme Being）‘为存在着某物而非一无所有这一事实提供理由’”（《有限性之后》：第117页）。它必须既是非神学（non-theological）的又是非信仰主义（non-fideist）的：因为并非无神论者（atheist），而是信徒（believer）“坚持认为莱布尼茨的问题没有理性意义，从而退回到信仰主义的奇迹学（fideist miracology），它‘惊异于存在某物而非一无所有这一事实，因为他相信对此没有理由，并且存在是一个纯粹的馈赠（pure gift），它本可能从未发生’”（《有限性之后》：第117页）。对梅亚苏而言，它必须是一种消除神秘感的解决方案（deflationary solution）：一种告诉读者，唯一“对该问题的恰当解决方案应该是当读者理解解决方案时所产生的清醒效果（sobering effect），并对自己说，‘原来就是这么回事……’”（《有限性之后》：第118页）。
 
 我们触及了他论证的核心：非理由律的“意义在于主张事实性（facticity）不仅仅是世界中的另一个事实（fact）——事实性并不与事实（facts）处于同一层面，像一个可以附加到后者之上的额外事实（extra fact）”（《有限性之后》：第119页）。为了理解这一点，我们必须探究非理由律的弱形式和强形式：
