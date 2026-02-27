@@ -7,6 +7,8 @@
 >
 >（注：本系列文章写于2009-2010年间……并未反映自那时之后科学与哲学领域的变化。）
 
+![](http://pics.livejournal.com/earth_wizard/pic/0003gg9f)
+
 重读昆汀·梅亚苏的《有限性之后》（After Finitude），首先让我印象深刻的是他思维的清晰与透彻：论证之间流畅衔接，囊括了思想与存在之“伟大的户外（great outdoors）”那片黑暗异己景观的全景。它并不那么需要一种关于实在的新数学词汇——正如它渴望摆脱自身固有丰盈（self-invested plenitude）的心灵，并怀着渺茫的希望，期盼着能够走出自身及其关联性牢笼，去凝视那“是”者（that which is）：即剥离了所有人类接触与经验的自在-存在（in-itself），却被那纯粹惊异的、难以名状的形态所照亮。如同一位终极真理玻璃珠游戏（ultimate glass-bead game of truth）中的竞技者，他编织着哲学话语的万千线索，解开我们黑色现代性（black modernity）中心纠结的疑难（aporia），在一系列文本中，召集起将为我们当前哲学困境（philosophical quagmire）阐明一种思辨解决方案的思想。然而，与赫尔曼·黑塞（Herman Hesse）经典小说《玻璃珠游戏》（Magister Ludi）中的克乃西特大师（Magister Knecht）不同，梅亚苏不仅仅是一个关于终极思想的忧郁唯美主义者，相反，他所直面并追问的，正是那最古老的问题：“我能知道什么？我应做什么？我能希望什么？……或许，应该怎么办？”
 
 从这个混合体（amalgam）中，涌现出一系列关乎我们对自我、社会和宇宙看法的、强大而卓越的新问题、议题和关切。他首先界定，客观表象（objective representation）与主观表象（subjective representation）之间的差异，是由两种类型的主观表象塑造的：那些可以被普遍化（universalized）的，因此在法理上（by right）能为每个人经验，故而是“科学的（scientific）”；以及那些无法被普遍化的，因此不属于科学话语范畴的【1：第12-13页】。然后他提出了一个有趣的观点：
