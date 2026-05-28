@@ -1,4 +1,4 @@
-# 1968年五月风暴从未发生
+# 吉尔·德勒兹&费利克斯·瓜塔里|1968年五月风暴从未发生
 >Gilles Deleuze & Félix Guattari | [May ’68 Did Not Take Place](https://my-blackout.com/2018/05/06/deleuze-and-guattari-may-68-did-not-take-place/)
 >
 >*»Mai 68 n’a pas lieu«* (Deleuze/Guattari), Les Nouvelles littéraires 1984
