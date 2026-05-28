@@ -1,4 +1,4 @@
-# 先锋派之死的意义何在？
+# Mehdi Belhaj Kacem, Philippe Sollers|先锋派之死的意义何在？
 >Mehdi Belhaj Kacem, Philippe Sollers | [What is the Meaning of the Avant-garde’s Death?](https://my-blackout.com/2019/12/20/mehdi-belhaj-kacem-philippe-sollers-what-is-the-meaning-of-the-avant-gardes-death/)
 >
 >英译：JORDAN LEE SCHNEE
