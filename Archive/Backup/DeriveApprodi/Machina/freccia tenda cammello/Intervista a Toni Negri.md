@@ -1,5 +1,7 @@
 # 访谈托尼·内格里 Intervista a Toni Negri
 
+![](https://static.wixstatic.com/media/0e99dc_efb27d0d59774479b0934e4f6b7375ef~mv2.jpg)图：Luca Pinzolo
+
 今天我们发表的这篇对托尼·内格里（Toni Negri）的访谈，摘自《工人主义者们》（Gli operaisti）（DeriveApprodi出版社，2005年），由圭多·博里奥（Guido Borio）、弗朗切斯卡·波齐（Francesca Pozzi）和吉吉·罗杰罗（Gigi Roggero）编辑整理。
 
 这份文献对于理解托尼·内格里的历史经历与思想至关重要：事实上，在这次访谈中，他谈到了自己政治经验中的几个主要节点——从《红色笔记》（Quaderni rossi）到自治运动（Autonomia）；谈到了他的成长历程；谈到了运动与规划性之间的关系；还谈到了工人主义思想（operaismo）的现实意义、丰富内涵及其局限性。
