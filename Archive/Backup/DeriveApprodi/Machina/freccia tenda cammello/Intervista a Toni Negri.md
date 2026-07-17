@@ -1,4 +1,6 @@
-# 访谈托尼·内格里 Intervista a Toni Negri
+# 访谈托尼·内格里 
+
+>[Intervista a Toni Negri](https://www.machina-deriveapprodi.com/post/intervista-a-toni-negri), 2023/12/19
 
 ![](https://static.wixstatic.com/media/0e99dc_efb27d0d59774479b0934e4f6b7375ef~mv2.jpg)图：Luca Pinzolo
 
