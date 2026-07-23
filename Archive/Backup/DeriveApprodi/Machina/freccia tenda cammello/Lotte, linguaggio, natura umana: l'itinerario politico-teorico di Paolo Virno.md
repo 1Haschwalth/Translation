@@ -1,8 +1,8 @@
 # 斗争、语言、人性：保罗·维尔诺的政治-理论历程
 
-**访谈选自《工人主义派》（Gli operaisti）**，2025/11/14
+**访谈选自《工人主义派》（Gli operaisti）**
 
->[Lotte, linguaggio, natura umana: l'itinerario politico-teorico di Paolo Virno](https://www.machina-deriveapprodi.com/post/lotte-linguaggio-natura-umana-l-itinerario-politico-teorico-di-paolo-virno)
+>[Lotte, linguaggio, natura umana: l'itinerario politico-teorico di Paolo Virno](https://www.machina-deriveapprodi.com/post/lotte-linguaggio-natura-umana-l-itinerario-politico-teorico-di-paolo-virno), 2025/11/14
 
 ![](https://static.wixstatic.com/media/0e99dc_366e20efb68c4476950169a5ad9bb513~mv2.jpg/v1/fill/w_740,h_963,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0e99dc_366e20efb68c4476950169a5ad9bb513~mv2.jpg)
 
