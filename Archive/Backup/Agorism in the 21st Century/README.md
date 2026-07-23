@@ -1,4 +1,7 @@
-# 21世纪的市场无政府主义 Agorism in the 21st Century
+# 21世纪的市场无政府主义（Agorism in the 21st Century）
+
+>https://agorist.xyz/
+
 加密货币（crypto）是一个在宏伟愿景下形成的行业。其早期先驱是市场无政府主义者（agorists），他们梦想着一个超越强制（coercion）的未来，并构建工具以向外拓展自由（freedom）的空间。
 
 随着时间的推移，加密货币的愿景已经动摇。《21世纪的市场无政府主义（Agorism in the 21st Century, AXXI）》正是为应对这一缺失而创立。AXXI旨在通过回归其市场无政府主义（agorist）根源，重振加密货币的潜力。
