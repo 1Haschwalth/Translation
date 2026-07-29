@@ -3,6 +3,8 @@
 >
 >安提基特拉工作室（Antikythera Studio, 2024）
 
+![](https://cdn.sanity.io/images/y9ih15q4/production/2b6e8069e057cf97e6c76dbd9b749f97464ae376-3840x2160.png?w=2000&auto=format)
+
 随着人工智能（AI）变得既更通用又更基础，它不应被视作一个脱离实体的虚拟大脑。它是一种真实的、物质性的力量。人工智能正日益嵌入现实世界系统的主动决策系统中。随着人工智能变得基础设施化（infrastructural），基础设施也变得智能化（intelligent）；随着社会基础设施（societal infrastructures）变得更具认知性（cognitive），人工智能理论与实践的关系需要重新调整。
 
 自然智能（Natural Intelligence）在环境尺度上并通过多智能体（multiple agents）的互动而涌现。它不只存在于大脑中，也存在于活跃的景观（landscapes）中。类似地，人工智能（artificial intelligence）并不局限于单个的人工心智（artificial minds）之内，而是延伸至行星计算（planetary computation）的网络之中：它被嵌入工业流程，生成图像与文本，协调城市中的流通，并在自然环境中感知、建模和行动。
@@ -14,8 +16,13 @@
 这一框架将如何影响人机交互设计（human–AI interaction design）？当数据的生产与策展（curation）是为了日益通用（generalized）、多模态（multimodal）和基础性（foundational）的模型时，会发生什么？生成式人工智能（generative AI）的集体智能（collective intelligence）将如何使世界不仅可被查询（queryable），还能以新的方式被重新组合（re-composable）？模拟（simulations）将如何消弭虚拟与现实之间的距离？人类社会将如何朝向人工智能的洞察力（insights）和可供性（affordances）对齐，而非人工智能屈从于人类的建构？最终，将更全面的行星信息（planetary information）——超越个体人类用户的痕迹——纳入考量，将如何扩展被视为智能（intelligence）的范畴？
 
 个体用户不仅将与大型模型互动，多种模型的组合也将以重叠的方式与人群互动。或许最关键也最陌生的互动将在不同的人工智能之间展开，无需人类干预。新生的生态（ecologies）正在形成、构建并演化出一种新的行星智能（planetary intelligence）生态。本研究分为五个主题部分：
+
 ## 生产性失协 Productive Disalignments
+
 ## 后人类世的心理-生理学 Post‑Anthropocene Psycho‑Physiologies
+
 ## 无身体的器官 Organs Without Bodies
+
 ## 行星时间计算 Planetary Time Computation
+
 ## 模仿之模仿 Mimesis of Mimesis
