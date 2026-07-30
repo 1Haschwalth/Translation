@@ -6,6 +6,8 @@
 
 ![](https://static.wixstatic.com/media/0e99dc_94014264755047988b6c6d22033216c6~mv2.jpg/v1/fill/w_768,h_918,al_c,q_90/0e99dc_94014264755047988b6c6d22033216c6~mv2.webp)
 
+图注：安娜·库特拉（Anna Kutera），《世界上最短的电影》（The Shortest Film in the World），1975
+
 *本文由卡拉·帕列罗撰写，探讨了九十年代的“艺术状况”：它与政治社会变革以及那个年代涌现的新技术之间的关系。*
 
 ***
