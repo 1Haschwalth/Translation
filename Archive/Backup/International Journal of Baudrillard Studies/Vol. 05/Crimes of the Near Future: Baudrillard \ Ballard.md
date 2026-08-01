@@ -98,7 +98,7 @@
 [^37]:唐·德里罗（Don DeLillo）。《白噪音》（White Noise）。伦敦：Picador，1999:10。
 [^38]:参见皮埃尔·克罗索夫斯基（Pierre Klossowski）。《萨德我的邻居》（Sade My Neighbour）。伦敦：Quartet Books，1992。
 [^39]:引自安吉莉卡·穆特修斯（Angelika Muthesius）编。《杰夫·昆斯》（Jeff Koons）。科隆：Taschen，1992。
-[^40]:J. G. 巴拉德。“各种虚构”（Fictions of Every Kind）(1971)。Re/Search 8/9：V. 韦尔（V. Vale）和安德烈娅·朱诺（Andrea Juno）编，1984:100。
+[^40]:J. G. 巴拉德。“每种理论小说”（Fictions of Every Kind）(1971)。Re/Search 8/9：V. 韦尔（V. Vale）和安德烈娅·朱诺（Andrea Juno）编，1984:100。
 [^41]:让·鲍德里亚。《拟像与仿真》。S. F. 格拉泽译。安阿伯：密歇根大学出版社，1994:113。
 [^42]:同上：118。
 [^43]:同上：119。
