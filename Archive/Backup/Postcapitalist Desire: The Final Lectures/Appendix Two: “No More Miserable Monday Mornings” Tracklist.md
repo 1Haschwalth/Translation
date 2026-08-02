@@ -36,6 +36,11 @@
 16. 《我终于自由了》（At Last I Am Free）—— Chic 乐队（《C'est Chic》，1978年）
 
 从愤怒与悲伤到集体的喜悦……从永无止境的工作到无尽的自由时间……
+
 现在就实行全民基本收入（Universal Basic Income）！
 
 k-punk，2015年7月18日
+
+---
+
+1 马克·费舍尔，“不再有悲惨的周一早晨（No more miserable Monday mornings）”，k-punk，2015年7月18日：<https://k-punk.org/no-more-miserable-monday-mornings/>
