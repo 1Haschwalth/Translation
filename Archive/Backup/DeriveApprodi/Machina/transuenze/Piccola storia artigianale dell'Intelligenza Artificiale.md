@@ -1,6 +1,6 @@
 # 人工智能的工匠小史
 
->https://www.machina-deriveapprodi.com/post/piccola-storia-artigianale-dell-intelligenza-artificiale
+>[Piccola storia artigianale dell'Intelligenza Artificiale](https://www.machina-deriveapprodi.com/post/piccola-storia-artigianale-dell-intelligenza-artificiale)
 >
 >保罗·韦尔纳廖内·贝拉尔迪（Paolo Vernaglione Berardi, 2024/10/24）
 
