@@ -65,3 +65,7 @@
 **第十五讲：重塑普罗米修斯（Lecture Fifteen: Reinventing Prometheus）**
 *   拉博里亚·库博尼克斯（Laboria Cuboniks），“异种女性主义宣言：一种异化的政治（Manifesto on Xenofeminism: A Politics for Alienation）”（2015年），在线获取于 http://www.laboriacuboniks.net
 *   海伦·海斯特（Helen Hester），“普罗米修斯式的劳作与家庭现实主义（Promethean Labours and Domestic Realism）”，在线获取于 https://www.academia.edu/11571359/Promethean_Labours_and_Domestic_Realism
+
+---
+
+1 关于这一系列活动系列的更多信息，请访问：<https://postcapitalistdesire.wordpress.com/>
