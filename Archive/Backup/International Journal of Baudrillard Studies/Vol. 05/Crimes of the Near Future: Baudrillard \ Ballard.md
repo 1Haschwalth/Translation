@@ -57,6 +57,7 @@
 我们甚至可以加上，一个麦片盒。巴拉德在1970年代的作品中所产生的——部分也是吸引鲍德里亚的地方——是对意义归因的拒绝，以及对塑造我们文化景观的“无形文学”（invisible literature）的自由漂浮的关注。在鲍德里亚对《撞车》的解读中，他恰恰拒绝的是巴拉德将小说定位为传统批评，或将其封闭在倒错（perversion）的逻辑之中。[^41] 我们面对的并非一个越界的世界，而是一个“没有欲望”（without desire）的世界。[^42] 因此，我想指出，他们近期的作品仍然发挥着诊断功能，但有退回到对越界的迷恋的风险，而不是鲍德里亚所说的“平庸或暴力的暗淡辉煌”（dull splendour of banality or of violence）。[^43] 巴拉德的《天国降临》之所以重要，恰恰在于它削弱了这一倾向，并再次提出了一个非常现实的问题，即他异性得以呈现的虚构形式。巴拉德的这次回归使我们能够提出重新思考形式的加剧性可能性的必要性，而不必将他异性的形式固化为绝对的罪行或全然他者（totally Other）。与寻找一个真正未来犯罪的欲望相反，我们或许可以追随鲍德里亚先前关于致命策略的建议：变成平庸（becoming-banal）。
 
 ## 关于作者
+
 本杰明·诺伊斯来自英国奇切斯特大学（University of Chichester）。
 
 [^1]:本文的早期版本最初发表于“Crimes of the Near Future: Baudrillard / Ballard”，Ícone 9 (2006): 29-38。第二个（修改版）版本以“Crimes of the Near Future: Baudrillard / Ballard”为题发表于 The Ballardian: the World of JG Ballard (2007)，网址：http://www.ballardian.com/crimes-of-the-near-future-baudrillard-ballard/ 。当前版本做了进一步修改——特别是为了纳入J. G. 巴拉德的小说《天国降临》（Kingdom Come，2006）的出版。
@@ -75,14 +76,14 @@
 [^14]:参见保罗·皮康（Paul Piccone）。“单向度的危机”（The Crisis of One-Dimensionality）。Telos 35 (1978): 43-54。
 [^15]:让·鲍德里亚。《恶的透明性》。纽约：Verso，1993:124-138。
 [^16]:参见保罗·维利里奥（Paul Virilio）。《艺术与恐惧》（Art and Fear）。纽约：Continuum，2003。
-[^17]:让·鲍德里亚。《邪恶的透明》。纽约：Verso，1993:146。
+[^17]:让·鲍德里亚。《恶的透明性》。纽约：Verso，1993:146。
 [^18]:同上：155。
 [^19]:J. G. 巴拉德。《超级戛纳》。伦敦：Flamingo，2001:251。
 [^20]:参见安德烈·加西奥雷克（Andrzej Gasiorek）。《J. G. 巴拉德》（J. G. Ballard）。曼彻斯特大学出版社，2005:202-214。
 [^21]:让·鲍德里亚。“当巴塔耶攻击经济学的形而上学原则”（When Bataille Attacked the Metaphysical Principle of Economy）。载于F. 博廷（F. Botting）和S. 威尔逊（S. Wilson）编。《巴塔耶：批评读本》（Bataille: A Critical Reader）。牛津：Blackwell，1998:194。
 [^22]:让·鲍德里亚。《在沉默的大多数阴影下》（In the Shadow of the Silent Majorities）。纽约：Semiotext(e)，1983:114。
 [^23]:让·鲍德里亚。“来自激进的不确定性，或思想作为冒名顶替者”（From Radical Incertitude, or Thought as Impostor）。载于：S. 洛特兰热和S. 科恩（S. Cohen）编。《美国的法国理论》（French Theory in America）。纽约：Routledge，2001:61。
-[^24]:让·鲍德里亚。《邪恶的透明》。纽约：Verso，1993:172。
+[^24]:让·鲍德里亚。《恶的透明性》。纽约：Verso，1993:172。
 [^25]:同上：173。
 [^26]:参见彼得·霍尔沃德（Peter Hallward）。《巴迪欧：服从真理的主体》（Badiou: A Subject to Truth）。明尼阿波利斯：明尼苏达大学出版社，2003: 20-23。
 [^27]:让·鲍德里亚。《拟像与仿真》。S. F. 格拉泽译。安阿伯：密歇根大学出版社，1994:19。
